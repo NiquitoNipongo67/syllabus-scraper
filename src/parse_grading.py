@@ -262,6 +262,8 @@ def main():
         grading = choose_best_grading(pdf_path, text)
         total_weight = compute_total_weight(grading)
 
+        parse_status = "ok" if 90 <= total_weight <= 110 else "needs_review"
+
         row = {
             "filename": filename,
             "course_name": course_name,
@@ -272,20 +274,25 @@ def main():
             "participation": grading["participation"],
             "other": grading["other"],
             "total_weight": total_weight,
+            "parse_status": parse_status,
         }
 
-        # Keep only plausible grading structures
-        if 90 <= total_weight <= 110:
-            rows.append(row)
-        else:
-            print(f"Skipping suspicious row: {filename} | {course_name} | total={total_weight}")
+        rows.append(row)
+
+        if parse_status == "needs_review":
+            print(f"Needs review: {filename} | {course_name} | total={total_weight}")
 
     df = pd.DataFrame(rows)
     df.to_csv(output_csv, index=False)
 
     print(f"Saved grading dataframe to {output_csv}")
     print("Number of rows:", len(df))
-    print(df[["filename", "course_name", "total_weight"]].to_string())
+    print(df[["filename", "course_name", "total_weight", "parse_status"]].to_string())
+
+    clean_df = df[df["parse_status"] == "ok"].copy()
+    clean_df.to_csv("data/processed/grading_dataframe_clean.csv", index=False)
+
+    print("Clean rows:", len(clean_df))
 
 
 if __name__ == "__main__":
