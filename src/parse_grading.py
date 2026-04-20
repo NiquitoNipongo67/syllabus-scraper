@@ -63,13 +63,20 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
 
     try:
         with pdfplumber.open(pdf_path) as pdf:
-            for page in pdf.pages:
+            pages_to_check = set()
+
+            # Find evaluation section page(s)
+            for i, page in enumerate(pdf.pages):
                 page_text = page.extract_text() or ""
                 page_text_lower = page_text.lower()
 
-                if "evaluation criteria" not in page_text_lower and "criteria" not in page_text_lower:
-                    continue
+                if "evaluation criteria" in page_text_lower:
+                    pages_to_check.add(i)
+                    if i + 1 < len(pdf.pages):
+                        pages_to_check.add(i + 1)  # include next page for split tables
 
+            for i in sorted(pages_to_check):
+                page = pdf.pages[i]
                 tables = page.extract_tables()
                 if not tables:
                     continue
@@ -89,6 +96,7 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
                             else:
                                 cleaned.append(str(cell).strip())
 
+                        # Need at least label + percentage
                         if len(cleaned) < 2:
                             continue
 
@@ -98,9 +106,11 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
                         if not label:
                             continue
 
+                        # Skip header row
                         if "criteria" in label and "percentage" in pct_cell:
                             continue
 
+                        # IMPORTANT: only read percentage from column 2
                         match = re.search(r"(\d{1,3})\s*%", pct_cell)
                         if not match:
                             continue
@@ -109,6 +119,7 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
 
                         if label.startswith("final exam"):
                             results["final_exam"] += pct
+
                         elif (
                             label.startswith("midterm + quizzes")
                             or label.startswith("midterm and quizzes")
@@ -117,8 +128,10 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
                             or label.startswith("midterm")
                         ):
                             results["midterm_tests"] += pct
+
                         elif label.startswith("quizzes") or label.startswith("quiz"):
                             results["quizzes"] += pct
+
                         elif (
                             label.startswith("group project")
                             or label.startswith("group projects")
@@ -126,12 +139,17 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
                             or label.startswith("project")
                         ):
                             results["project"] += pct
+
                         elif (
                             label.startswith("class participation")
                             or label.startswith("participation")
                         ):
                             results["participation"] += pct
+
                         elif label.startswith("individual work"):
+                            results["other"] += pct
+
+                        else:
                             results["other"] += pct
 
         return results
