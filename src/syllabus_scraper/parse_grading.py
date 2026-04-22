@@ -51,6 +51,61 @@ def compute_total_weight(grading: dict) -> int:
     )
 
 
+# Maps a normalized label to a grading category.
+# Returns None only for known header/non-data rows.
+def map_label_to_category(label: str) -> str | None:
+    label = normalize_label(label)
+    # Strip leading "a.", "b.", etc. prefixes from lettered-section syllabuses
+    label = re.sub(r"^[a-z]\.", "", label).strip()
+
+    # Skip known header/metadata rows
+    if label in ("criteria", "evaluation criteria", "percentage",
+                 "learning objectives", "comments", ""):
+        return None
+
+    squished = label.replace(" ", "")
+
+    # Final exam
+    if ("final exam" in label or "final-exam" in label or "final test" in label
+            or "finalexam" in squished):
+        return "final_exam"
+
+    # Midterm / intermediate tests
+    if ("midterm" in label or "intermediate test" in label
+            or "intermediate exam" in label or "midterm" in squished):
+        return "midterm_tests"
+
+    # Quizzes
+    if "quiz" in label or "quiz" in squished:
+        return "quizzes"
+
+    # Group projects, presentations, any team/project work
+    if (
+        any(k in label for k in [
+            "group project", "group work", "group presentation",
+            "project report", "project presentation", "scientific writing",
+            "final presentation",
+        ])
+        or any(k in squished for k in [
+            "groupproject", "groupwork", "grouppresentation", "groupworkand",
+        ])
+        or label.startswith("project")
+    ):
+        return "project"
+
+    # Class participation
+    if "participation" in label or "participation" in squished:
+        return "participation"
+
+    # Individual work → other
+    if ("individual work" in label or "individual contribution" in label
+            or "individualwork" in squished):
+        return "other"
+
+    # Catch-all: any remaining row with a percentage goes to other
+    return "other"
+
+
 def extract_grading_items_from_pdf(pdf_path: str) -> dict:
     results = {
         "final_exam": 0,
@@ -63,19 +118,19 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
 
     try:
         with pdfplumber.open(pdf_path) as pdf:
-            pages_to_check = set()
-
-            # Find evaluation section page(s)
+            # Find the first page that contains "evaluation criteria"
+            criteria_page_idx = None
             for i, page in enumerate(pdf.pages):
-                page_text = page.extract_text() or ""
-                page_text_lower = page_text.lower()
+                if "evaluation criteria" in (page.extract_text() or "").lower():
+                    criteria_page_idx = i
+                    break
 
-                if "evaluation criteria" in page_text_lower:
-                    pages_to_check.add(i)
-                    if i + 1 < len(pdf.pages):
-                        pages_to_check.add(i + 1)  # include next page for split tables
+            if criteria_page_idx is None:
+                return results
 
-            for i in sorted(pages_to_check):
+            # Scan from criteria page through the next 3 pages to capture
+            # split tables where the header and data land on different pages.
+            for i in range(criteria_page_idx, min(criteria_page_idx + 4, len(pdf.pages))):
                 page = pdf.pages[i]
                 tables = page.extract_tables()
                 if not tables:
@@ -89,14 +144,8 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
                         if not row:
                             continue
 
-                        cleaned = []
-                        for cell in row:
-                            if cell is None:
-                                cleaned.append("")
-                            else:
-                                cleaned.append(str(cell).strip())
+                        cleaned = [str(c).strip() if c is not None else "" for c in row]
 
-                        # Need at least label + percentage
                         if len(cleaned) < 2:
                             continue
 
@@ -106,51 +155,18 @@ def extract_grading_items_from_pdf(pdf_path: str) -> dict:
                         if not label:
                             continue
 
-                        # Skip header row
-                        if "criteria" in label and "percentage" in pct_cell:
+                        # Skip column-header rows
+                        if label in ("criteria", "evaluation criteria") and "percentage" in pct_cell:
                             continue
 
-                        # IMPORTANT: only read percentage from column 2
                         match = re.search(r"(\d{1,3})\s*%", pct_cell)
                         if not match:
                             continue
 
                         pct = int(match.group(1))
-
-                        if label.startswith("final exam"):
-                            results["final_exam"] += pct
-
-                        elif (
-                            label.startswith("midterm + quizzes")
-                            or label.startswith("midterm and quizzes")
-                            or label.startswith("intermediate tests")
-                            or label.startswith("intermediate test")
-                            or label.startswith("midterm")
-                        ):
-                            results["midterm_tests"] += pct
-
-                        elif label.startswith("quizzes") or label.startswith("quiz"):
-                            results["quizzes"] += pct
-
-                        elif (
-                            label.startswith("group project")
-                            or label.startswith("group projects")
-                            or label.startswith("group work")
-                            or label.startswith("project")
-                        ):
-                            results["project"] += pct
-
-                        elif (
-                            label.startswith("class participation")
-                            or label.startswith("participation")
-                        ):
-                            results["participation"] += pct
-
-                        elif label.startswith("individual work"):
-                            results["other"] += pct
-
-                        else:
-                            results["other"] += pct
+                        category = map_label_to_category(label)
+                        if category:
+                            results[category] += pct
 
         return results
 
@@ -199,35 +215,34 @@ def extract_grading_items_from_text(text: str) -> dict:
         if "%" not in line:
             continue
 
-        match = re.search(r"(.+?)\s+(\d{1,3})\s*%", line, flags=re.IGNORECASE)
-        if not match:
+        raw_label = None
+        pct = None
+
+        # Pattern 1: "Label NN%" (standard spaced format)
+        m = re.search(r"(.+?)\s+(\d{1,3})\s*%", line, flags=re.IGNORECASE)
+        if m:
+            raw_label = m.group(1).strip().lower()
+            pct = int(m.group(2))
+
+        # Pattern 2: "Label[NN%]" (bracket format, e.g. file_45)
+        if raw_label is None:
+            m2 = re.search(r"(.+?)\[(\d{1,3})%\]", line, flags=re.IGNORECASE)
+            if m2:
+                raw_label = m2.group(1).strip().lower()
+                pct = int(m2.group(2))
+
+        if raw_label is None or pct is None:
             continue
 
-        raw_label = match.group(1).strip().lower()
-        pct = int(match.group(2))
+        category = map_label_to_category(raw_label)
 
-        if raw_label.startswith("final exam"):
-            results["final_exam"] += pct
-        elif (
-            raw_label.startswith("midterm + quizzes")
-            or raw_label.startswith("midterm and quizzes")
-            or raw_label.startswith("intermediate tests")
-            or raw_label.startswith("intermediate test")
-            or raw_label.startswith("midterm")
-        ):
-            results["midterm_tests"] += pct
-        elif raw_label.startswith("quizzes") or raw_label.startswith("quiz"):
-            results["quizzes"] += pct
-        elif (
-            raw_label.startswith("group project")
-            or raw_label.startswith("group projects")
-            or raw_label.startswith("group work")
-            or raw_label.startswith("project")
-        ):
-            results["project"] += pct
-        elif raw_label.startswith("class participation") or raw_label.startswith("participation"):
-            results["participation"] += pct
-        elif raw_label.startswith("individual work"):
+        # In text extraction use explicit categories only; skip catch-all
+        # to avoid false positives from narrative sentences.
+        if category and category != "other":
+            results[category] += pct
+        elif category == "other" and any(k in raw_label for k in [
+            "individual work", "individual contribution", "individualwork",
+        ]):
             results["other"] += pct
 
     return results
@@ -246,7 +261,7 @@ def choose_best_grading(pdf_path: str, text: str) -> dict:
     if 90 <= text_total <= 110 and not (90 <= table_total <= 110):
         return text_grading
 
-    # If both are valid, prefer table parsing
+    # If both are valid, prefer table parsing (more structured)
     if 90 <= table_total <= 110 and 90 <= text_total <= 110:
         return table_grading
 
@@ -262,7 +277,7 @@ def main():
 
     rows = []
 
-    for filename in os.listdir(input_folder):
+    for filename in sorted(os.listdir(input_folder)):
         if not filename.lower().endswith(".pdf"):
             continue
 
@@ -298,19 +313,21 @@ def main():
         rows.append(row)
 
         if parse_status == "needs_review":
-            print(f"Needs review: {filename} | {course_name} | total={total_weight}")
+            print(f"  [needs_review] {filename} | {course_name} | total={total_weight}")
 
     df = pd.DataFrame(rows)
     df.to_csv(output_csv, index=False)
 
-    print(f"Saved grading dataframe to {output_csv}")
-    print("Number of rows:", len(df))
-    print(df[["filename", "course_name", "total_weight", "parse_status"]].to_string())
+    print(f"\nSaved grading dataframe to {output_csv}")
+    print("Total rows:", len(df))
+    print()
+    print(df[["filename", "course_name", "final_exam", "midterm_tests", "quizzes",
+              "project", "participation", "other", "total_weight", "parse_status"]].to_string())
 
     clean_df = df[df["parse_status"] == "ok"].copy()
     clean_df.to_csv("data/processed/grading_dataframe_clean.csv", index=False)
 
-    print("Clean rows:", len(clean_df))
+    print(f"\nClean rows (total ~100%): {len(clean_df)}")
 
 
 if __name__ == "__main__":
