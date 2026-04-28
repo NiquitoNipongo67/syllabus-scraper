@@ -9,7 +9,26 @@ import time
 
 MAIN_URL = "https://www.ie.edu/university/studies/academic-programs/"
 BASE_DOMAIN = "ie.edu/university/studies/academic-programs/"
-DOCS_DOMAIN = "docs.ie.edu"
+DOCS_DOMAINS = ["docs.ie.edu", "thesaurus.ie.edu", "files.thesaurus.ie.edu", "static.ie.edu"]
+
+DEGREE_NAME_MAP = {
+    "bachelor-applied-mathematics": "BAM",
+    "bachelor-computer-science": "BCSAI",
+    "bachelor-data-business-analytics": "BDBA",
+    "bachelor-business-administration": "BBA",
+    "bachelor-international-relations": "BIR",
+    "bachelor-laws": "LLB",
+    "bachelor-humanities": "BHUM",
+    "bachelor-architectural": "BAS",
+    "bachelor-behavior": "BBSS",
+    "bachelor-economics": "BEC",
+    "bachelor-political": "BPS",
+    "bachelor-pple": "PPLE",
+    "bachelor-communication": "BCDM",
+    "bachelor-design": "BDES",
+    "bachelor-environmental": "BESS",
+    "bachelor-fashion": "BFD",
+}
 
 
 def make_driver():
@@ -54,15 +73,21 @@ def get_degree_urls(driver):
             and href.count("/") == MAIN_URL.count("/") + 1
         ):
             seen.add(href)
-            degree_urls.append((text, href))
-            print(f"  Found degree: {text or href}")
+            # Extract degree code from URL slug
+            slug = href.rstrip("/").split("/")[-1]
+            degree_code = next(
+                (code for key, code in DEGREE_NAME_MAP.items() if key in slug),
+                slug  # fallback to full slug if not in map
+            )
+            degree_urls.append((degree_code, href))
+            print(f"  Found degree: {degree_code} → {slug}")
 
     print(f"\nTotal degrees found: {len(degree_urls)}")
     return degree_urls
 
 
 def get_syllabus_links_for_degree(driver, degree_name, degree_url):
-    """Go to the /the-program/#study-plan page and extract all docs.ie.edu PDF links."""
+    """Go to the /the-program/#study-plan page and extract all PDF links."""
     study_plan_url = degree_url.rstrip("/") + "/the-program/#study-plan"
     print(f"\nScraping: {degree_name}")
     print(f"  URL: {study_plan_url}")
@@ -72,14 +97,15 @@ def get_syllabus_links_for_degree(driver, degree_name, degree_url):
     syllabus_links = []
     seen = set()
     for text, href in links:
-        if DOCS_DOMAIN in href and href.endswith(".pdf") and href not in seen:
+        if any(domain in href for domain in DOCS_DOMAINS) and href.endswith(".pdf") and href not in seen:
             seen.add(href)
+            course_name = href.split("/")[-1].replace(".pdf", "").replace("_", " ").replace("-", " ").strip()
             syllabus_links.append({
-    "degree": degree_name,
-    "course_name": href.split("/")[-1].replace(".pdf", "").replace("_", " ").strip(),
-    "syllabus_url": href,
-})
-            print(f"    Found: {text or href}")
+                "degree": degree_name,
+                "course_name": course_name,
+                "syllabus_url": href,
+            })
+            print(f"    Found: {course_name}")
 
     print(f"  Syllabuses found: {len(syllabus_links)}")
     return syllabus_links
@@ -114,7 +140,8 @@ def main():
 
     print(f"\n✅ Done! Found {len(df)} syllabuses across {len(degree_urls)} degrees.")
     print(f"Saved to {out_path}")
-    print(df[["degree", "course_name", "syllabus_url"]].to_string())
+    if not df.empty:
+        print(df[["degree", "course_name", "syllabus_url"]].to_string())
 
 
 if __name__ == "__main__":

@@ -1,654 +1,953 @@
 degree,course_name,syllabus_url
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,Fall CalculusI,https://docs.ie.edu/university/Grados/BAM/Fall_CalculusI.pdf
-,Fall LinearAlgebra,https://docs.ie.edu/university/Grados/BAM/Fall_LinearAlgebra.pdf
-,Fall DiscreteMathematics,https://docs.ie.edu/university/Grados/BAM/Fall_DiscreteMathematics.pdf
-,Fall Geometry,https://docs.ie.edu/university/Grados/BAM/Fall_Geometry.pdf
-,Fall ComputerProgrammingI,https://docs.ie.edu/university/Grados/BAM/Fall_ComputerProgrammingI.pdf
-,Spring CalculusII,https://docs.ie.edu/university/Grados/BAM/Spring_CalculusII.pdf
-,Spring ComputerProgrammingII,https://docs.ie.edu/university/Grados/BAM/Spring_ComputerProgrammingII.pdf
-,Spring ProbStats,https://docs.ie.edu/university/Grados/BAM/Spring_ProbStats.pdf
-,Spring Databases,https://docs.ie.edu/university/Grados/BAM/Spring_Databases.pdf
-,Spring Datavisualization,https://docs.ie.edu/university/Grados/BAM/Spring_Datavisualization.pdf
-,Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
-,Fall ODEs,https://docs.ie.edu/university/Grados/BAM/Fall_ODEs.pdf
-,Fall Numericalmethods,https://docs.ie.edu/university/Grados/BAM/Fall_Numericalmethods.pdf
-,Fall OptimizationI,https://docs.ie.edu/university/Grados/BAM/Fall_OptimizationI.pdf
-,Fall MachineLearning,https://docs.ie.edu/university/Grados/BAM/Fall_MachineLearning.pdf
-,Fall Commskills,https://docs.ie.edu/university/Grados/BAM/Fall_Commskills.pdf
-,TECH,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/TECH.pdf
-,Spring MathematicalModeling,https://docs.ie.edu/university/Grados/BAM/Spring_MathematicalModeling.pdf
-,Spring Approximation,https://docs.ie.edu/university/Grados/BAM/Spring_Approximation.pdf
-,Spring StatisticalModeling,https://docs.ie.edu/university/Grados/BAM/Spring_StatisticalModeling.pdf
-,Spring OptimizationII,https://docs.ie.edu/university/Grados/BAM/Spring_OptimizationII.pdf
-,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/BIE_acreditacion/IE_Impact_Entrepreneurship.pdf
-,EDPs,https://docs.ie.edu/university/Grados/BAM/EDPs.pdf
-,Algorithms,https://docs.ie.edu/university/Grados/BAM/Algorithms.pdf
-,optimizationIII,https://docs.ie.edu/university/Grados/BAM/optimizationIII.pdf
-,numericallinearalgebra,https://docs.ie.edu/university/Grados/BAM/numericallinearalgebra.pdf
-,bayesianstatistics stocproc,https://docs.ie.edu/university/Grados/BAM/bayesianstatistics_stocproc.pdf
-,nonlineardynamics,https://docs.ie.edu/university/Grados/BAM/nonlineardynamics.pdf
-,deeplearning,https://docs.ie.edu/university/Grados/BAM/deeplearning.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,DESIGN STUDIO 1,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_1.pdf
-,GRAPHIC COMMUNICATION 1,https://docs.ie.edu/university/Grados/BAS/GRAPHIC_COMMUNICATION_1.pdf
-,ARCHITECTURE HISTORIES AND CONTEXTS,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURE_HISTORIES_AND_CONTEXTS.pdf
-,DIGITAL TOOLS AND OPERATIONS 1,https://docs.ie.edu/university/Grados/BAS/DIGITAL_TOOLS_AND_OPERATIONS_1.pdf
-,APPLIED MATHEMATICS IN ARCHITECTURE 1,https://docs.ie.edu/university/Grados/BAS/APPLIED_MATHEMATICS_IN_ARCHITECTURE_1.pdf
-,EXPERIMENTATION WORKSHOP 1,https://docs.ie.edu/university/Grados/BAS/EXPERIMENTATION_WORKSHOP_1.pdf
-,Design Studio 2 Form and Material A,https://docs.ie.edu/university/Grados/BAS/Design_Studio_2_Form_and_Material_A.pdf
-,Graphic Communication 2 A,https://docs.ie.edu/university/Grados/BAS/Graphic_Communication_2_A.pdf
-,Arch Geomtery 1,https://docs.ie.edu/university/Grados/BAS/Arch_Geomtery_1.pdf
-,Applied Physics in Architectural 1,https://docs.ie.edu/university/Grados/BAS/Applied_Physics_in_Architectural_1.pdf
-,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
-,Digital Tools and Operations 2,https://docs.ie.edu/university/Grados/BAS/Digital_Tools_and_Operations_2.pdf
-,DESIGN STUDIO 3 EXPERIENCE,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_3_EXPERIENCE.pdf
-,CONSTRUCTION SYSTEMS AND APPLICATIONS 1,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_1.pdf
-,ARCHITECTURAL GEOMETRY 2,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_GEOMETRY_2.pdf
-,APPLIED MATHEMATICS IN ARCHITECTURE 2,https://docs.ie.edu/university/Grados/BAS/APPLIED_MATHEMATICS_IN_ARCHITECTURE_2.pdf
-,EXPERIMENTATION WORKSHOP 2,https://docs.ie.edu/university/Grados/BAS/EXPERIMENTATION_WORKSHOP_2.pdf
-,DESIGN STUDIO 4,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_4.pdf
-,STRUCTURAL TYPES AND CALCULATIONS 1,https://docs.ie.edu/university/Grados/BAS/STRUCTURAL_TYPES_AND_CALCULATIONS_1.pdf
-,ENVIRONMENTAL AND BUILDING SYSTEMS 1,https://docs.ie.edu/university/Grados/BAS/ENVIRONMENTAL_AND_BUILDING_SYSTEMS_1.pdf
-,INTRODUCTION TO URBAN AND REGIONAL STUDIES,https://docs.ie.edu/university/Grados/BAS/INTRODUCTION_TO_URBAN_AND_REGIONAL_STUDIES.pdf
-,Design Entrepreneurship Workshop 1,https://docs.ie.edu/university/Grados/BAS/Design_Entrepreneurship_Workshop_1.pdf
-,APPLIED PHYSICS IN ARCHITECTURE 2,https://docs.ie.edu/university/Grados/BAS/APPLIED_PHYSICS_IN_ARCHITECTURE_2.pdf
-,DESIGN STUDIO 5 TECHNIQUE,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_5_TECHNIQUE.pdf
-,CONSTRUCTION SYSTEMS AND APPLICATIONS 2,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_2.pdf
-,ARCHITECTURAL HISTORY AND THEORY 1,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_HISTORY_AND_THEORY_1.pdf
-,URBAN STRATEGIES 1,https://docs.ie.edu/university/Grados/BAS/URBAN_STRATEGIES_1.pdf
-,EXPERIMENTATION WORKSHOP 3,https://docs.ie.edu/university/Grados/BAS/EXPERIMENTATION_WORKSHOP_3.pdf
-,ARCHITECTURAL HISTORY AND THEORY 2,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_HISTORY_AND_THEORY_2.pdf
-,DESIGN STUDIO 6,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_6.pdf
-,CONSTRUCTION SYSTEMS AND APPLICATIONS 3,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_3.pdf
-,Design Entrepreneurship Workshop 2,https://docs.ie.edu/university/Grados/BAS/Design_Entrepreneurship_Workshop_2.pdf
-,ENVIRONMENTAL AND BUILDING SYSTEMS 2,https://docs.ie.edu/university/Grados/BAS/ENVIRONMENTAL_AND_BUILDING_SYSTEMS_2.pdf
-,STRUCTURAL TYPES AND CALCULATIONS 2,https://docs.ie.edu/university/Grados/BAS/STRUCTURAL_TYPES_AND_CALCULATIONS_2.pdf
-,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
-,PROFESSIONAL PRACTICE,https://docs.ie.edu/university/Grados/BAS/PROFESSIONAL_PRACTICE.pdf
-,ARCHITECTURAL HISTORY AND THEORY 3,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_HISTORY_AND_THEORY_3.pdf
-,CONSTRUCTION SYSTEMS AND APPLICATIONS 4,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_4.pdf
-,DESIGN STUDIO 7 AGGREGATION,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_7_AGGREGATION.pdf
-,URBAN MANAGEMENT,https://docs.ie.edu/university/Grados/BAS/URBAN_MANAGEMENT.pdf
-,Architectural History and Theory 4,https://docs.ie.edu/university/Grados/BAS/Architectural_History_and_Theory_4.pdf
-,Advances Structures and Foundations,https://docs.ie.edu/university/Grados/BAS/Advances_Structures_and_Foundations.pdf
-,Design Studio 8 Territory A,https://docs.ie.edu/university/Grados/BAS/Design_Studio_8_Territory_A.pdf
-,Urban Strategies 2,https://docs.ie.edu/university/Grados/BAS/Urban_Strategies_2.pdf
-,DEW3,https://docs.ie.edu/university/Grados/BAS/DEW3.pdf
-,Advanced Architectural Graphics,https://docs.ie.edu/university/Grados/BAS/Advanced_Architectural_Graphics.pdf
-,ALTERNATIVE PRACTISES URBAN INFRASTRUCTURES,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_URBAN_INFRASTRUCTURES.pdf
-,ALTERNATIVE PRACTISES RESEARCH METHODS,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_RESEARCH_METHODS.pdf
-,ALTERNATIVE PRACTISES DESIGN,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_DESIGN.pdf
-,ALTERNATIVE PRACTISES LANDSCAPE AND ENVIRONMENT,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_LANDSCAPE_AND_ENVIRONMENT.pdf
-,ALTERNATIVE PRACTISES DIGITAL STUDIES,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_DIGITAL_STUDIES.pdf
-,Undergraduate Thesis,https://docs.ie.edu/university/Grados/BAS/Undergraduate_Thesis.pdf
-,DS9 synthesis,https://docs.ie.edu/university/Grados/BAS/DS9_synthesis.pdf
-,Advanced Technical Studies A,https://docs.ie.edu/university/Grados/BAS/Advanced_Technical_Studies_A.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,INTRODUCTION TO BUSINESS MANAGEMENT,https://docs.ie.edu/university/Grados/BCSAI/INTRODUCTION_TO_BUSINESS_MANAGEMENT.pdf
-,THE BIG HISTORY OF IDEAS AND INNOVATION,https://docs.ie.edu/university/Grados/BCSAI/THE_BIG_HISTORY_OF_IDEAS_AND_INNOVATION.pdf
-,FUNDAMENTALS OF PROBABILITY AND STATISTICS,https://docs.ie.edu/university/Grados/BCSAI/FUNDAMENTALS_OF_PROBABILITY_AND_STATISTICS.pdf
-,DISCRETE MATHEMATICS,https://docs.ie.edu/university/Grados/BCSAI/DISCRETE_MATHEMATICS.pdf
-,LEARNING TO OBSERVE EXPERIMENT AND SURVEY,https://docs.ie.edu/university/Grados/BCSAI/LEARNING_TO_OBSERVE_EXPERIMENT_AND_SURVEY.pdf
-,Principles of Programming,https://docs.ie.edu/university/Grados/BCSAI/Principles_of_Programming.pdf
-,PHYSICS FOR COMPUTER SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PHYSICS_FOR_COMPUTER_SCIENCE.pdf
-,FUNDAMENTALS OF DATA ANALYSIS,https://docs.ie.edu/university/Grados/BCSAI/FUNDAMENTALS_OF_DATA_ANALYSIS.pdf
-,SIMULATING AND MODELING TO UNDERSTAND CHANGE,https://docs.ie.edu/university/Grados/BCSAI/SIMULATING_AND_MODELING_TO_UNDERSTAND_CHANGE.pdf
-,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
-,CALCULUS FOR COMPUTER SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/CALCULUS_FOR_COMPUTER_SCIENCE.pdf
-,COMPUTER PROGRAMMING 1,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_PROGRAMMING_1.pdf
-,CLOUD COMPUTING,https://docs.ie.edu/university/Grados/BCSAI/CLOUD_COMPUTING.pdf
-,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
-,ALGORITHMS  DATA STRUCTURES,https://docs.ie.edu/university/Grados/BCSAI/ALGORITHMS__DATA_STRUCTURES.pdf
-,COMPUTER ARCHITECTURE NETWORK TECHNOLOGY  OPERATING,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_ARCHITECTURE_NETWORK_TECHNOLOGY__OPERATING.pdf
-,MATRICES  LINEAR TRANSFORMATIONS,https://docs.ie.edu/university/Grados/BCSAI/MATRICES__LINEAR_TRANSFORMATIONS.pdf
-,DESIGNING AND USING DATABASES,https://docs.ie.edu/university/Grados/BCSAI/DESIGNING_AND_USING_DATABASES.pdf
-,PROBABILITY FOR COMPUTING SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PROBABILITY_FOR_COMPUTING_SCIENCE.pdf
-,AI MACHINE LEARNING FOUNDATIONS,https://docs.ie.edu/university/Grados/BCSAI/AI_MACHINE_LEARNING_FOUNDATIONS.pdf
-,AI PERSONALITY AND EMOTION FOR AI DESIGN,https://docs.ie.edu/university/Grados/BCSAI/AI_PERSONALITY_AND_EMOTION_FOR_AI_DESIGN.pdf
-,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
-,COMPUTER PROGRAMMING 2,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_PROGRAMMING_2.pdf
-,SOFTWARE DEVELOPMENT AND DEVOPS,https://docs.ie.edu/university/Grados/BCSAI/SOFTWARE_DEVELOPMENT_AND_DEVOPS.pdf
-,HIGH PERFORMANCE COMPUTING,https://docs.ie.edu/university/Grados/BCSAI/HIGH_PERFORMANCE_COMPUTING.pdf
-,AI REASONING  PROBLEM SOLVING,https://docs.ie.edu/university/Grados/BCSAI/AI_REASONING__PROBLEM_SOLVING.pdf
-,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
-,AI NATURAL LANGUAGE PROCESSING  SEMANTIC ANALYSIS,https://docs.ie.edu/university/Grados/BCSAI/AI_NATURAL_LANGUAGE_PROCESSING__SEMANTIC_ANALYSIS.pdf
-,AI COMPUTER VISION,https://docs.ie.edu/university/Grados/BCSAI/AI_COMPUTER_VISION.pdf
-,AI CHATBOTS  RECOMMENDATION ENGINES,https://docs.ie.edu/university/Grados/BCSAI/AI_CHATBOTS__RECOMMENDATION_ENGINES.pdf
-,AI STATISTICAL LEARNING  PREDICTION,https://docs.ie.edu/university/Grados/BCSAI/AI_STATISTICAL_LEARNING__PREDICTION.pdf
-,AI REINFORCEMENT LEARNING,https://docs.ie.edu/university/Grados/BCSAI/AI_REINFORCEMENT_LEARNING.pdf
-,Electives,https://docs.ie.edu/university/Grados/BCSAI/Electives.pdf
-,Robotics Automation,https://docs.ie.edu/university/Grados/BCSAI/Robotics_Automation.pdf
-,BLOCKCHAIN CRYPTOCURRENCIES  FINTECH,https://docs.ie.edu/university/Grados/BCSAI/BLOCKCHAIN_CRYPTOCURRENCIES__FINTECH.pdf
-,ETHICS POLICY MAKING AND LEGISLATION IN CS,https://docs.ie.edu/university/Grados/BCSAI/ETHICS_POLICY_MAKING_AND_LEGISLATION_IN_CS.pdf
-,UX UI  HUMAN,https://docs.ie.edu/university/Grados/BCSAI/UX_UI__HUMAN.pdf
-,Capstone Project,https://docs.ie.edu/university/Grados/BCSAI/Capstone_Project.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,Fundamentals of Probability and Statistics,https://docs.ie.edu/university/Grados/BDBA/Fundamentals_of_Probability_and_Statistics.pdf
-,Fundamentals of Human Behavior,https://docs.ie.edu/university/Grados/BDBA/Fundamentals_of_Human_Behavior.pdf
-,Communication Skills,https://docs.ie.edu/university/Grados/BDBA/Communication_Skills.pdf
-,The Big History of Ideas and Innovation,https://docs.ie.edu/university/Grados/BDBA/The_Big_History_of_Ideas_and_Innovation.pdf
-,Introduction to Programming for Data Science,https://docs.ie.edu/university/Grados/BDBA/Introduction_to_Programming_for_Data_Science.pdf
-,Learning to Observe Experiment and Survey,https://docs.ie.edu/university/Grados/BDBA/Learning_to_Observe_Experiment_and_Survey.pdf
-,Fundamentals of Data Analysis,https://docs.ie.edu/university/Grados/BDBA/Fundamentals_of_Data_Analysis.pdf
-,Professional Bootcamp Leadership,https://docs.ie.edu/university/Grados/BDBA/Professional_Bootcamp_Leadership.pdf
-,Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
-,Computational Thinking for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Computational_Thinking_for_Data_Management_%26_Analysis.pdf
-,Simulating and Modeling to Understand Change,https://docs.ie.edu/university/Grados/BDBA/Simulating_and_Modeling_to_Understand_Change.pdf
-,Data Insights and Visualization,https://docs.ie.edu/university/Grados/BDBA/Data_Insights_and_Visualization.pdf
-,Algorithms and Data Structure,https://docs.ie.edu/university/Grados/BDBA/Algorithms_and_Data_Structure.pdf
-,Time Series Analysis,https://docs.ie.edu/university/Grados/BDBA/Time_Series_Analysis.pdf
-,Mathematics for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Mathematics_for_Data_Management_%26_Analysis.pdf
-,Probability %26 Statistics for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Probability_%26_Statistics_for_Data_Management_%26_Analysis.pdf
-,Programming for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Programming_for_Data_Management_%26_Analysis.pdf
-,TECH,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/TECH.pdf
-,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/BIE_acreditacion/IE_Impact_Entrepreneurship.pdf
-,AI Machine Learning Foundations,https://docs.ie.edu/university/Grados/BDBA/AI_Machine_Learning_Foundations.pdf
-,Introduction to Business and Social Analytics,https://docs.ie.edu/university/Grados/BDBA/Introduction_to_Business_and_Social_Analytics.pdf
-,Forecasting for Time Series,https://docs.ie.edu/university/Grados/BDBA/Forecasting_for_Time_Series.pdf
-,Operating Systems %26 Parallel Computing,https://docs.ie.edu/university/Grados/BDBA/Operating_Systems_%26_Parallel_Computing.pdf
-,Analyzing Social Media,https://docs.ie.edu/university/Grados/BDBA/Analyzing_Social_Media.pdf
-,Project Management,https://docs.ie.edu/university/Grados/BDBA/Project_Management.pdf
-,AI Machine Learning %26 Analytics,https://docs.ie.edu/university/Grados/BDBA/AI_Machine_Learning_%26_Analytics.pdf
-,Recommendation Engines,https://docs.ie.edu/university/Grados/BDBA/Recommendation_Engines.pdf
-,IE Challenge,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/IE_Challenge.pdf
-,Big Data Technology,https://docs.ie.edu/university/Grados/BDBA/Big_Data_Technology.pdf
-,Stream Analytics,https://docs.ie.edu/university/Grados/BDBA/Stream_Analytics.pdf
-,Advanced Databases,https://docs.ie.edu/university/Grados/BDBA/Advanced_Databases.pdf
-,Designing AI %26 Implementing Smart Technologies,https://docs.ie.edu/university/Grados/BDBA/Designing_AI_%26_Implementing_Smart_Technologies.pdf
-,Professional Bootcamp Teamwork,https://docs.ie.edu/university/Grados/BDBA/Professional_Bootcamp_Teamwork.pdf
-,NLP Text Mining and Semantic Analysis,https://docs.ie.edu/university/Grados/BDBA/NLP_Text_Mining_and_Semantic_Analysis.pdf
-,Data Visualization Dashboards %26 Storytelling,https://docs.ie.edu/university/Grados/BDBA/Data_Visualization_Dashboards_%26_Storytelling.pdf
-,Emerging Topics in Data Analysis %26 Management,https://docs.ie.edu/university/Grados/BDBA/Emerging_Topics_in_Data_Analysis_%26_Management.pdf
-,Data Governance,https://docs.ie.edu/university/Grados/BDBA/Data_Governance.pdf
-,Advanced Topic Customer Analytics,https://docs.ie.edu/university/Grados/BDBA/Advanced_Topic_Customer_Analytics.pdf
-,Advanced Topic Financial Analytics,https://docs.ie.edu/university/Grados/BDBA/Advanced_Topic_Financial_Analytics.pdf
-,Advanced Topic Connected Industries Smart Cities %26 E-Governments,https://docs.ie.edu/university/Grados/BDBA/Advanced_Topic_Connected_Industries_Smart_Cities_%26_E-Governments.pdf
-,Capstone Project,https://docs.ie.edu/university/Grados/BDBA/Capstone_Project.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,GLOBAL HISTORY I,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_I.pdf
-,PHILOSOPHICAL QUESTIONS %26 METHODS,https://docs.ie.edu/university/Grados/BHUM/PHILOSOPHICAL_QUESTIONS_%26_METHODS.pdf
-,DIGITAL HUMANITIES,https://docs.ie.edu/university/Grados/BHUM/DIGITAL_HUMANITIES.pdf
-,ADVANCED WRITING SKILLS,https://docs.ie.edu/university/Grados/BHUM/ADVANCED_WRITING_SKILLS.pdf
-,MANAGEMENT TOOLS AND PRINCIPLES,https://docs.ie.edu/university/Grados/BHUM/MANAGEMENT_TOOLS_AND_PRINCIPLES.pdf
-,GLOBAL HISTORY II,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_II.pdf
-,RHETORIC AND STORYTELLING,https://docs.ie.edu/university/Grados/BHUM/RHETORIC_AND_STORYTELLING.pdf
-,FOUNDATIONS OF SOCIAL THEORY,https://docs.ie.edu/university/Grados/BHUM/FOUNDATIONS_OF_SOCIAL_THEORY.pdf
-,Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
-,INTRODUCTION TO PROGRAMMING,https://docs.ie.edu/university/Grados/BHUM/INTRODUCTION_TO_PROGRAMMING.pdf
-,LOGIC AND ALGORITHMIC THINKING,https://docs.ie.edu/university/Grados/BHUM/LOGIC_AND_ALGORITHMIC_THINKING.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,EU LEGAL HISTORY LARRAnAGA,https://docs.ie.edu/university/Grados/LLB/2025/EU_LEGAL_HISTORY_LARRAnAGA.pdf
-,CONSTITUTIONAL LAW-KOUROUTAKIS,https://docs.ie.edu/university/Grados/LLB/2025/CONSTITUTIONAL_LAW-KOUROUTAKIS.pdf
-,INTRO PRIVATE LAW CASILDA CORTES,https://docs.ie.edu/university/Grados/LLB/2025/INTRO_PRIVATE_LAW_CASILDA_CORTES.pdf
-,ACCOUNTING JORGE COLVIN,https://docs.ie.edu/university/Grados/LLB/2025/ACCOUNTING_JORGE_COLVIN.pdf
-,ECONOMICS GERARDO JACOBS,https://docs.ie.edu/university/Grados/LLB/2025/ECONOMICS_GERARDO_JACOBS.pdf
-,ETHICS  VALUES ELENA GARRIGUES,https://docs.ie.edu/university/Grados/LLB/2025/ETHICS__VALUES_ELENA_GARRIGUES.pdf
-,CRIMINAL LAW I PALMIOTTO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_I_PALMIOTTO.pdf
-,CONTRACTS MALO,https://docs.ie.edu/university/Grados/LLB/2025/CONTRACTS_MALO.pdf
-,WRITING MARVEL,https://docs.ie.edu/university/Grados/LLB/2025/WRITING_MARVEL.pdf
-,LEGAL THOUGHT BAUTERS,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_THOUGHT_BAUTERS.pdf
-,ADMINISTRATIVE LAW MARTIN ARRIBAS,https://docs.ie.edu/university/Grados/LLB/2025/ADMINISTRATIVE_LAW_MARTIN_ARRIBAS.pdf
-,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
-,CRIMINAL LAW II CAPELLO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_II_CAPELLO.pdf
-,PROPERTY ZAMORA,https://docs.ie.edu/university/Grados/LLB/2025/PROPERTY_ZAMORA.pdf
-,ADMINS  ECONOMIC REGULATIONS LAZAR,https://docs.ie.edu/university/Grados/LLB/2025/ADMINS__ECONOMIC_REGULATIONS_LAZAR.pdf
-,PUBLIC INTER LAW DELERUE,https://docs.ie.edu/university/Grados/LLB/2025/PUBLIC_INTER_LAW_DELERUE.pdf
-,PERSUASION ALMANSA,https://docs.ie.edu/university/Grados/LLB/2025/PERSUASION_ALMANSA.pdf
-,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
-,LABOUR LAW I OTERO,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_I_OTERO.pdf
-,EUROPEAN UNION LAW LESKINEN,https://docs.ie.edu/university/Grados/LLB/2025/EUROPEAN_UNION_LAW_LESKINEN.pdf
-,HUMAN RIGHTS VERDUGO,https://docs.ie.edu/university/Grados/LLB/2025/HUMAN_RIGHTS_VERDUGO.pdf
-,TORTS BERMEJO,https://docs.ie.edu/university/Grados/LLB/2025/TORTS_BERMEJO.pdf
-,LEGAL SKILLS TRANSACTIONS DAROCA,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_SKILLS_TRANSACTIONS_DAROCA.pdf
-,LITIGATION I DE BENITO,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_I_DE_BENITO.pdf
-,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
-,TAXATION I LEIS,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_I_LEIS.pdf
-,LABOUR LAW II CIFUENTES,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_II_CIFUENTES.pdf
-,COMMERCIAL LAW I FERNANDEZ BENITO,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_I_FERNANDEZ_BENITO.pdf
-,LITIGATION II PINEROS,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_II_PINEROS.pdf
-,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
-,CONFLICTS  BUSINESS LAW SANCHEZ,https://docs.ie.edu/university/Grados/LLB/2025/CONFLICTS__BUSINESS_LAW_SANCHEZ.pdf
-,TAXATION II-ALLEVATO,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_II-ALLEVATO.pdf
-,UNPLUGGED V MORALES,https://docs.ie.edu/university/Grados/LLB/2025/UNPLUGGED_V_MORALES.pdf
-,COMMERCIAL LAW II REIG,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_II_REIG.pdf
-,FAMILY STATE  TRUST CORTES,https://docs.ie.edu/university/Grados/LLB/2025/FAMILY_STATE__TRUST_CORTES.pdf
-,Optativas 2,https://docs.ie.edu/university/Grados/LLB/2025/Optativas_2.pdf
-,OPTATIVAS 1,https://docs.ie.edu/university/Grados/LLB/2025/OPTATIVAS_1.pdf
-,Law Final Project,https://docs.ie.edu/university/Grados/LLB/2025/Law_Final_Project.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-,MATHEMATICS ALVAREZ,https://docs.ie.edu/university/Grados/PPLE/MATHEMATICS_ALVAREZ.pdf
-,EUROPEAN LEGAL HISTORY WAUTERS,https://docs.ie.edu/university/Grados/PPLE/EUROPEAN_LEGAL_HISTORY_WAUTERS.pdf
-,INTRO TO POLITICAS SCIENCE ZIDEK,https://docs.ie.edu/university/Grados/PPLE/INTRO_TO_POLITICAS_SCIENCE_ZIDEK.pdf
-,RESEARCH METHODS GUJER,https://docs.ie.edu/university/Grados/PPLE/RESEARCH_METHODS_GUJER.pdf
-,HISTORY ANCIENT  MEDIEVAL PHILOSOPHY ALONSO,https://docs.ie.edu/university/Grados/PPLE/HISTORY_ANCIENT__MEDIEVAL_PHILOSOPHY_ALONSO.pdf
-,INTRO TO LAW SYSTEMS VERDUGO,https://docs.ie.edu/university/Grados/PPLE/INTRO_TO_LAW_SYSTEMS_VERDUGO.pdf
-,MICROECONOMICS PENA,https://docs.ie.edu/university/Grados/PPLE/MICROECONOMICS_PENA.pdf
-,SOCIAL SEMINAR I GUJER,https://docs.ie.edu/university/Grados/PPLE/SOCIAL_SEMINAR_I_GUJER.pdf
-,CONSTITUTIONAL LAW ELKHOURY,https://docs.ie.edu/university/Grados/PPLE/CONSTITUTIONAL_LAW_ELKHOURY.pdf
-,GOVERNMENT  COMPARATIVE POLITICS WIESEHOMEIER,https://docs.ie.edu/university/Grados/PPLE/GOVERNMENT__COMPARATIVE_POLITICS_WIESEHOMEIER.pdf
-,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
-,HISTORY MODERN CONTEMPORARY PHILOSOPHY OBANDO,https://docs.ie.edu/university/Grados/PPLE/HISTORY_MODERN_CONTEMPORARY_PHILOSOPHY_OBANDO.pdf
-,PROBABILITY  STATISTICS MESA,https://docs.ie.edu/university/Grados/PPLE/PROBABILITY__STATISTICS_MESA.pdf
-,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
-,PUBLIC ADMON  MANAGEMENT PUIG-SIMON,https://docs.ie.edu/university/Grados/PPLE/PUBLIC_ADMON__MANAGEMENT_PUIG-SIMON.pdf
-,MACROECONOMICS YAGUE,https://docs.ie.edu/university/Grados/PPLE/MACROECONOMICS_YAGUE.pdf
-,LOGIC  ARGUMENTATION ALHAMBRA,https://docs.ie.edu/university/Grados/PPLE/LOGIC__ARGUMENTATION_ALHAMBRA.pdf
-,CONTRACTS DEELIZALDE,https://docs.ie.edu/university/Grados/PPLE/CONTRACTS_DEELIZALDE.pdf
-,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
-,Social Seminar II 2526,https://docs.ie.edu/university/Grados/PPLE/Social_Seminar_II_2526.pdf
-,ECONOMETRICS ALEGRIA,https://docs.ie.edu/university/Grados/PPLE/ECONOMETRICS_ALEGRIA.pdf
-,Public Economics 2526,https://docs.ie.edu/university/Grados/PPLE/Public_Economics_2526.pdf
-,PUBLIC INTERNATIONAL LAW SALAZAR,https://docs.ie.edu/university/Grados/PPLE/PUBLIC_INTERNATIONAL_LAW_SALAZAR.pdf
-,POLITICAL PHILOSOPHY NIETHARDT,https://docs.ie.edu/university/Grados/PPLE/POLITICAL_PHILOSOPHY_NIETHARDT.pdf
-,EUROPEAN UNIOS LAW LESKINEN,https://docs.ie.edu/university/Grados/PPLE/EUROPEAN_UNIOS_LAW_LESKINEN.pdf
-,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
-,GAME THEORY AND INDUSTRIAL ORGANIZATION KONSTANTINIDIS,https://docs.ie.edu/university/Grados/PPLE/GAME_THEORY_AND_INDUSTRIAL_ORGANIZATION_KONSTANTINIDIS.pdf
-,PUBLIC POLICY ANALYSIS PIQUER,https://docs.ie.edu/university/Grados/PPLE/PUBLIC_POLICY_ANALYSIS_PIQUER.pdf
-,Legal Philosophy 2526,https://docs.ie.edu/university/Grados/PPLE/Legal_Philosophy_2526.pdf
-,SOCIAL SEMINAR III MONFORT,https://docs.ie.edu/university/Grados/PPLE/SOCIAL_SEMINAR_III_MONFORT.pdf
-,MONETARY ECONOMICS,https://docs.ie.edu/university/Grados/PPLE/MONETARY_ECONOMICS.pdf
-,INTERNATIONAL TRADE LAW CUEVAS,https://docs.ie.edu/university/Grados/PPLE/INTERNATIONAL_TRADE_LAW_CUEVAS.pdf
-,Electivos,https://docs.ie.edu/university/Grados/PPLE/Electivos.pdf
-,Law Final Project,https://docs.ie.edu/university/Grados/PPLE/Law_Final_Project.pdf
-,IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-,IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Mathematics for Management,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Mathematics_for_Management_.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Final Project,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Final_Project.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MANAGEMENT TOOLS AND PRINCIPLES,https://docs.ie.edu/university/Grados/BHUM/MANAGEMENT_TOOLS_AND_PRINCIPLES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",APPLIED BUSINESS MATHEMATICS,https://docs.ie.edu/university/Grados/BHUM/APPLIED_BUSINESS_MATHEMATICS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",GLOBAL HISTORY I,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_I.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PHILOSOPHICAL QUESTIONS %26 METHODS,https://docs.ie.edu/university/Grados/BHUM/PHILOSOPHICAL_QUESTIONS_%26_METHODS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",RESEARCH ACADEMIC WRITING SKILLS,https://docs.ie.edu/university/Grados/BHUM/RESEARCH_ACADEMIC_WRITING_SKILLS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",DIGITAL HUMANITIES,https://docs.ie.edu/university/Grados/BHUM/DIGITAL_HUMANITIES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",FINANCIAL ACCOUNTING,https://docs.ie.edu/university/Grados/BHUM/FINANCIAL_ACCOUNTING.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MATHEMATICS FOR MANAGEMENT,https://docs.ie.edu/university/Grados/BHUM/MATHEMATICS_FOR_MANAGEMENT.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MICROECONOMICS,https://docs.ie.edu/university/Grados/BHUM/MICROECONOMICS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",GLOBAL HISTORY II,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_II.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",FOUNDATIONS OF SOCIAL THEORY,https://docs.ie.edu/university/Grados/BHUM/FOUNDATIONS_OF_SOCIAL_THEORY.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LOGIC AND ALGORITHMIC THINKING,https://docs.ie.edu/university/Grados/BHUM/LOGIC_AND_ALGORITHMIC_THINKING.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",EUROPEAN UNION JOCHEN MULLER,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/EUROPEAN_UNION_JOCHEN_MULLER.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",OPERATIONS MANAGEMENT,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/OPERATIONS_MANAGEMENT.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MANAGEMENT CONTROL,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/MANAGEMENT_CONTROL.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",SUPPLY CHAIN MANAGEMENT,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/SUPPLY_CHAIN_MANAGEMENT.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Management Tools,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Management_Tools.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Applied Business Maths,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Applied_Business_Maths.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",EU LEGAL HISTORY LARRAnAGA,https://docs.ie.edu/university/Grados/LLB/2025/EU_LEGAL_HISTORY_LARRAnAGA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CONSTITUTIONAL LAW-KOUROUTAKIS,https://docs.ie.edu/university/Grados/LLB/2025/CONSTITUTIONAL_LAW-KOUROUTAKIS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",BPR,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/BPR.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",INTRO PRIVATE LAW CASILDA CORTES,https://docs.ie.edu/university/Grados/LLB/2025/INTRO_PRIVATE_LAW_CASILDA_CORTES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Financial Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Financial_Accounting.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Maths Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Maths_Management.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LEGAL THOUGHT BAUTERS,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_THOUGHT_BAUTERS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Microeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Microeconomics.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",ETHICS  VALUES ELENA GARRIGUES,https://docs.ie.edu/university/Grados/LLB/2025/ETHICS__VALUES_ELENA_GARRIGUES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Intro Programming,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Intro_Programming.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Macroeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Macroeconomics.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",ADMINISTRATIVE LAW MARTIN ARRIBAS,https://docs.ie.edu/university/Grados/LLB/2025/ADMINISTRATIVE_LAW_MARTIN_ARRIBAS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CONTRACTS MALO,https://docs.ie.edu/university/Grados/LLB/2025/CONTRACTS_MALO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",WRITING MARVEL,https://docs.ie.edu/university/Grados/LLB/2025/WRITING_MARVEL.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CRIMINAL LAW I PALMIOTTO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_I_PALMIOTTO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Cost Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Cost_Accounting.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PUBLIC INTER LAW DELERUE,https://docs.ie.edu/university/Grados/LLB/2025/PUBLIC_INTER_LAW_DELERUE.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",BDIT,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/BDIT.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PROPERTY ZAMORA,https://docs.ie.edu/university/Grados/LLB/2025/PROPERTY_ZAMORA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TORTS BERMEJO,https://docs.ie.edu/university/Grados/LLB/2025/TORTS_BERMEJO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CRIMINAL LAW II CAPELLO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_II_CAPELLO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",COMMERCIAL LAW I FERNANDEZ BENITO,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_I_FERNANDEZ_BENITO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TAXATION I LEIS,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_I_LEIS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",EUROPEAN UNION LAW LESKINEN,https://docs.ie.edu/university/Grados/LLB/2025/EUROPEAN_UNION_LAW_LESKINEN.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Financial Reporting Analysis,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Financial_Reporting_Analysis.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MARKETING FUNDAMENTALS BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/MARKETING_FUNDAMENTALS_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",COMMERCIAL LAW II REIG,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_II_REIG.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TAXATION II-ALLEVATO,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_II-ALLEVATO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Statistics,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Statistics.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Corporate Finance,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Corporate_Finance.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",HUMAN RIGHTS VERDUGO,https://docs.ie.edu/university/Grados/LLB/2025/HUMAN_RIGHTS_VERDUGO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",OPERATIONS MANAGEMENT BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/OPERATIONS_MANAGEMENT_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Marketing Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Marketing_Management.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PERSUASION ALMANSA,https://docs.ie.edu/university/Grados/LLB/2025/PERSUASION_ALMANSA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Electives,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Electives.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Capital markets BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Capital_markets_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Strategies for Competing in Industries and Markets BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Strategies_for_Competing_in_Industries_and_Markets_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CONFLICTS  BUSINESS LAW SANCHEZ,https://docs.ie.edu/university/Grados/LLB/2025/CONFLICTS__BUSINESS_LAW_SANCHEZ.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Marketing in Action BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Marketing_in_Action_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Global Economic Environment BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Global_Economic_Environment_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Data Analysis for Economics BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Data_Analysis_for_Economics_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",FAMILY STATE  TRUST CORTES,https://docs.ie.edu/university/Grados/LLB/2025/FAMILY_STATE__TRUST_CORTES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Organizational behavior BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Organizational_behavior_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LABOUR LAW I OTERO,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_I_OTERO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LITIGATION I DE BENITO,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_I_DE_BENITO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Human Capital Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Human_Capital_Management.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Strategies Multinational Corporation,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Strategies_Multinational_Corporation.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Management Control,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Management_Control.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Strategies Disruptive World,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Strategies_Disruptive_World.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Supply Chain Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Supply_Chain_Management.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LEGAL SKILLS TRANSACTIONS DAROCA,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_SKILLS_TRANSACTIONS_DAROCA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",final-project BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/final-project_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LABOUR LAW II CIFUENTES,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_II_CIFUENTES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LITIGATION II PINEROS,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_II_PINEROS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Law Final Project,https://docs.ie.edu/university/Grados/LLB/2025/Law_Final_Project.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",UNPLUGGED V MORALES,https://docs.ie.edu/university/Grados/LLB/2025/UNPLUGGED_V_MORALES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Financial Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Financial_Accounting.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Management Tools,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Management_Tools.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Discrete Mathematics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Discrete_Mathematics.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Fundamentals of Probability and Statistics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Fundamentals_of_Probability_and_Statistics.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Marketing Fundamentals,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Marketing_Fundamentals.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Research and Academic Writing,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Research_and_Academic_Writing.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PHYSICS FOR COMPUTER SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PHYSICS_FOR_COMPUTER_SCIENCE.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Cost Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Cost_Accounting.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Principles of Programming,https://docs.ie.edu/university/Grados/BCSAI/Principles_of_Programming.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Fundamentals of DataAnalysis,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Fundamentals_of_DataAnalysis.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Microeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Microeconomics.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Calculus for Computer Science,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Calculus_for_Computer_Science.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",The Big History of Ideas,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/The_Big_History_of_Ideas.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",COMPUTER PROGRAMMING 1,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_PROGRAMMING_1.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CLOUD COMPUTING,https://docs.ie.edu/university/Grados/BCSAI/CLOUD_COMPUTING.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Marketing Management BBA,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Marketing_Management_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Corporate Finance,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Corporate_Finance.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Macroeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Macroeconomics.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",SIMULATING AND MODELING TO UNDERSTAND CHANGE,https://docs.ie.edu/university/Grados/BCSAI/SIMULATING_AND_MODELING_TO_UNDERSTAND_CHANGE.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",BPR,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/BPR.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PROBABILITY FOR COMPUTING SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PROBABILITY_FOR_COMPUTING_SCIENCE.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MATRICES  LINEAR TRANSFORMATIONS,https://docs.ie.edu/university/Grados/BCSAI/MATRICES__LINEAR_TRANSFORMATIONS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Marketing Action BBA,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Marketing_Action_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Capital Markets BBA,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Capital_Markets_BBA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2025-2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IEU-Academic-Calendar-2026-2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",HISTORY OF INT RELATIONS UPTO 1945,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/HISTORY_OF_INT_RELATIONS_UPTO_1945.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MICROECONOMICS,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/MICROECONOMICS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",EU LEGAL HISTORY LARRAnAGA,https://docs.ie.edu/university/Grados/LLB/2025/EU_LEGAL_HISTORY_LARRAnAGA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CONSTITUTIONAL LAW-KOUROUTAKIS,https://docs.ie.edu/university/Grados/LLB/2025/CONSTITUTIONAL_LAW-KOUROUTAKIS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",bir-languages,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/bir-languages.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",HISTORY OF INT. REL. SINCE 1945,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/HISTORY_OF_INT._REL._SINCE_1945.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",MACROECONOMICS,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/MACROECONOMICS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",ETHICS  VALUES ELENA GARRIGUES,https://docs.ie.edu/university/Grados/LLB/2025/ETHICS__VALUES_ELENA_GARRIGUES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LEGAL THOUGHT BAUTERS,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_THOUGHT_BAUTERS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",INTRO PRIVATE LAW CASILDA CORTES,https://docs.ie.edu/university/Grados/LLB/2025/INTRO_PRIVATE_LAW_CASILDA_CORTES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",RESEARCH METHODS IN IR,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/RESEARCH_METHODS_IN_IR.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",INTERNATIONAL RELATIONS SKILLS II,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_RELATIONS_SKILLS_II.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TECHNOLOGY II,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/TECHNOLOGY_II.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CONTRACTS MALO,https://docs.ie.edu/university/Grados/LLB/2025/CONTRACTS_MALO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",ADMINISTRATIVE LAW MARTIN ARRIBAS,https://docs.ie.edu/university/Grados/LLB/2025/ADMINISTRATIVE_LAW_MARTIN_ARRIBAS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",POLITICAL THEORY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/POLITICAL_THEORY.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",INTERNATIONAL RELATIONS THEORY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_RELATIONS_THEORY.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PUBLIC INTER LAW DELERUE,https://docs.ie.edu/university/Grados/LLB/2025/PUBLIC_INTER_LAW_DELERUE.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",ADMINS  ECONOMIC REGULATIONS LAZAR,https://docs.ie.edu/university/Grados/LLB/2025/ADMINS__ECONOMIC_REGULATIONS_LAZAR.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",UNPLUGGED III,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/UNPLUGGED_III.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",INTERNATIONAL POLITICAL ECONOMY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_POLITICAL_ECONOMY.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",EUROPEAN UNION LAW LESKINEN,https://docs.ie.edu/university/Grados/LLB/2025/EUROPEAN_UNION_LAW_LESKINEN.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",COMMERCIAL LAW I FERNANDEZ BENITO,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_I_FERNANDEZ_BENITO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CRIMINAL LAW I PALMIOTTO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_I_PALMIOTTO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LEGAL SKILLS TRANSACTIONS DAROCA,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_SKILLS_TRANSACTIONS_DAROCA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",INTERNATIONAL TRADE AND FINANCE,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_TRADE_AND_FINANCE.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",HUMAN RIGHTS VERDUGO,https://docs.ie.edu/university/Grados/LLB/2025/HUMAN_RIGHTS_VERDUGO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TORTS BERMEJO,https://docs.ie.edu/university/Grados/LLB/2025/TORTS_BERMEJO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TOPICS IN FOREIGN POLICY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/TOPICS_IN_FOREIGN_POLICY.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",COMMERCIAL LAW II REIG,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_II_REIG.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CRIMINAL LAW II CAPELLO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_II_CAPELLO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PROPERTY ZAMORA,https://docs.ie.edu/university/Grados/LLB/2025/PROPERTY_ZAMORA.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",UNPLUGGED V MORALES,https://docs.ie.edu/university/Grados/LLB/2025/UNPLUGGED_V_MORALES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",AID DEVELOPMENT AND SOCIAL ENTREPRENEURSHIP,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/AID_DEVELOPMENT_AND_SOCIAL_ENTREPRENEURSHIP.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CLIMATE CHANGE AND ENVIRONMENTAL POLITICS,https://docs.ie.edu.s3.amazonaws.com/university/Grados/DOBLES/LLBBIR/CLIMATE_CHANGE_AND_ENVIRONMENTAL_POLITICS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PROJECT MANAGEMENT,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/PROJECT_MANAGEMENT.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",GLOBAL GOVERNANCE AND INTERNATIONAL INSTITUTIONS,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/GLOBAL_GOVERNANCE_AND_INTERNATIONAL_INSTITUTIONS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TAXATION I LEIS,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_I_LEIS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LITIGATION I DE BENITO,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_I_DE_BENITO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",FAMILY STATE  TRUST CORTES,https://docs.ie.edu/university/Grados/LLB/2025/FAMILY_STATE__TRUST_CORTES.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LABOUR LAW I OTERO,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_I_OTERO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",OPTATIVAS LLBBIR,https://docs.ie.edu.s3.amazonaws.com/university/Grados/DOBLES/LLBBIR/OPTATIVAS_LLBBIR.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PEACE AND CONFLICT RESOLUTION,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/PEACE_AND_CONFLICT_RESOLUTION.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",PUBLIC OPINION %26 POLITICAL COMMUNICATION,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/PUBLIC_OPINION_%26_POLITICAL_COMMUNICATION.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",TAXATION II-ALLEVATO,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_II-ALLEVATO.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",LITIGATION II PINEROS,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_II_PINEROS.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",CONFLICTS  BUSINESS LAW SANCHEZ,https://docs.ie.edu/university/Grados/LLB/2025/CONFLICTS__BUSINESS_LAW_SANCHEZ.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",OPTATIVAS LLBBIR,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/OPTATIVAS_LLBBIR.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",Law Final Project,https://docs.ie.edu/university/Grados/LLB/2025/Law_Final_Project.pdf
-"Discover the program. It will open in a new tab
-DISCOVER THE PROGRAM",BIR Capstone,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/BIR_Capstone.pdf
+BAM,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BAM,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BAM,Fall CalculusI,https://docs.ie.edu/university/Grados/BAM/Fall_CalculusI.pdf
+BAM,Fall LinearAlgebra,https://docs.ie.edu/university/Grados/BAM/Fall_LinearAlgebra.pdf
+BAM,Fall DiscreteMathematics,https://docs.ie.edu/university/Grados/BAM/Fall_DiscreteMathematics.pdf
+BAM,Fall Geometry,https://docs.ie.edu/university/Grados/BAM/Fall_Geometry.pdf
+BAM,Fall ComputerProgrammingI,https://docs.ie.edu/university/Grados/BAM/Fall_ComputerProgrammingI.pdf
+BAM,Spring CalculusII,https://docs.ie.edu/university/Grados/BAM/Spring_CalculusII.pdf
+BAM,Spring ComputerProgrammingII,https://docs.ie.edu/university/Grados/BAM/Spring_ComputerProgrammingII.pdf
+BAM,Spring ProbStats,https://docs.ie.edu/university/Grados/BAM/Spring_ProbStats.pdf
+BAM,Spring Databases,https://docs.ie.edu/university/Grados/BAM/Spring_Databases.pdf
+BAM,Spring Datavisualization,https://docs.ie.edu/university/Grados/BAM/Spring_Datavisualization.pdf
+BAM,Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
+BAM,Fall ODEs,https://docs.ie.edu/university/Grados/BAM/Fall_ODEs.pdf
+BAM,Fall Numericalmethods,https://docs.ie.edu/university/Grados/BAM/Fall_Numericalmethods.pdf
+BAM,Fall OptimizationI,https://docs.ie.edu/university/Grados/BAM/Fall_OptimizationI.pdf
+BAM,Fall MachineLearning,https://docs.ie.edu/university/Grados/BAM/Fall_MachineLearning.pdf
+BAM,Fall Commskills,https://docs.ie.edu/university/Grados/BAM/Fall_Commskills.pdf
+BAM,TECH,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/TECH.pdf
+BAM,Spring MathematicalModeling,https://docs.ie.edu/university/Grados/BAM/Spring_MathematicalModeling.pdf
+BAM,Spring Approximation,https://docs.ie.edu/university/Grados/BAM/Spring_Approximation.pdf
+BAM,Spring StatisticalModeling,https://docs.ie.edu/university/Grados/BAM/Spring_StatisticalModeling.pdf
+BAM,Spring OptimizationII,https://docs.ie.edu/university/Grados/BAM/Spring_OptimizationII.pdf
+BAM,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/BIE_acreditacion/IE_Impact_Entrepreneurship.pdf
+BAM,EDPs,https://docs.ie.edu/university/Grados/BAM/EDPs.pdf
+BAM,Algorithms,https://docs.ie.edu/university/Grados/BAM/Algorithms.pdf
+BAM,optimizationIII,https://docs.ie.edu/university/Grados/BAM/optimizationIII.pdf
+BAM,numericallinearalgebra,https://docs.ie.edu/university/Grados/BAM/numericallinearalgebra.pdf
+BAM,bayesianstatistics stocproc,https://docs.ie.edu/university/Grados/BAM/bayesianstatistics_stocproc.pdf
+BAM,nonlineardynamics,https://docs.ie.edu/university/Grados/BAM/nonlineardynamics.pdf
+BAM,deeplearning,https://docs.ie.edu/university/Grados/BAM/deeplearning.pdf
+BAS,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BAS,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BAS,DESIGN STUDIO 1,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_1.pdf
+BAS,GRAPHIC COMMUNICATION 1,https://docs.ie.edu/university/Grados/BAS/GRAPHIC_COMMUNICATION_1.pdf
+BAS,ARCHITECTURE HISTORIES AND CONTEXTS,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURE_HISTORIES_AND_CONTEXTS.pdf
+BAS,DIGITAL TOOLS AND OPERATIONS 1,https://docs.ie.edu/university/Grados/BAS/DIGITAL_TOOLS_AND_OPERATIONS_1.pdf
+BAS,APPLIED MATHEMATICS IN ARCHITECTURE 1,https://docs.ie.edu/university/Grados/BAS/APPLIED_MATHEMATICS_IN_ARCHITECTURE_1.pdf
+BAS,EXPERIMENTATION WORKSHOP 1,https://docs.ie.edu/university/Grados/BAS/EXPERIMENTATION_WORKSHOP_1.pdf
+BAS,Design Studio 2 Form and Material A,https://docs.ie.edu/university/Grados/BAS/Design_Studio_2_Form_and_Material_A.pdf
+BAS,Graphic Communication 2 A,https://docs.ie.edu/university/Grados/BAS/Graphic_Communication_2_A.pdf
+BAS,Arch Geomtery 1,https://docs.ie.edu/university/Grados/BAS/Arch_Geomtery_1.pdf
+BAS,Applied Physics in Architectural 1,https://docs.ie.edu/university/Grados/BAS/Applied_Physics_in_Architectural_1.pdf
+BAS,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
+BAS,Digital Tools and Operations 2,https://docs.ie.edu/university/Grados/BAS/Digital_Tools_and_Operations_2.pdf
+BAS,DESIGN STUDIO 3 EXPERIENCE,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_3_EXPERIENCE.pdf
+BAS,CONSTRUCTION SYSTEMS AND APPLICATIONS 1,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_1.pdf
+BAS,ARCHITECTURAL GEOMETRY 2,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_GEOMETRY_2.pdf
+BAS,APPLIED MATHEMATICS IN ARCHITECTURE 2,https://docs.ie.edu/university/Grados/BAS/APPLIED_MATHEMATICS_IN_ARCHITECTURE_2.pdf
+BAS,EXPERIMENTATION WORKSHOP 2,https://docs.ie.edu/university/Grados/BAS/EXPERIMENTATION_WORKSHOP_2.pdf
+BAS,DESIGN STUDIO 4,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_4.pdf
+BAS,STRUCTURAL TYPES AND CALCULATIONS 1,https://docs.ie.edu/university/Grados/BAS/STRUCTURAL_TYPES_AND_CALCULATIONS_1.pdf
+BAS,ENVIRONMENTAL AND BUILDING SYSTEMS 1,https://docs.ie.edu/university/Grados/BAS/ENVIRONMENTAL_AND_BUILDING_SYSTEMS_1.pdf
+BAS,INTRODUCTION TO URBAN AND REGIONAL STUDIES,https://docs.ie.edu/university/Grados/BAS/INTRODUCTION_TO_URBAN_AND_REGIONAL_STUDIES.pdf
+BAS,Design Entrepreneurship Workshop 1,https://docs.ie.edu/university/Grados/BAS/Design_Entrepreneurship_Workshop_1.pdf
+BAS,APPLIED PHYSICS IN ARCHITECTURE 2,https://docs.ie.edu/university/Grados/BAS/APPLIED_PHYSICS_IN_ARCHITECTURE_2.pdf
+BAS,DESIGN STUDIO 5 TECHNIQUE,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_5_TECHNIQUE.pdf
+BAS,CONSTRUCTION SYSTEMS AND APPLICATIONS 2,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_2.pdf
+BAS,ARCHITECTURAL HISTORY AND THEORY 1,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_HISTORY_AND_THEORY_1.pdf
+BAS,URBAN STRATEGIES 1,https://docs.ie.edu/university/Grados/BAS/URBAN_STRATEGIES_1.pdf
+BAS,EXPERIMENTATION WORKSHOP 3,https://docs.ie.edu/university/Grados/BAS/EXPERIMENTATION_WORKSHOP_3.pdf
+BAS,ARCHITECTURAL HISTORY AND THEORY 2,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_HISTORY_AND_THEORY_2.pdf
+BAS,DESIGN STUDIO 6,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_6.pdf
+BAS,CONSTRUCTION SYSTEMS AND APPLICATIONS 3,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_3.pdf
+BAS,Design Entrepreneurship Workshop 2,https://docs.ie.edu/university/Grados/BAS/Design_Entrepreneurship_Workshop_2.pdf
+BAS,ENVIRONMENTAL AND BUILDING SYSTEMS 2,https://docs.ie.edu/university/Grados/BAS/ENVIRONMENTAL_AND_BUILDING_SYSTEMS_2.pdf
+BAS,STRUCTURAL TYPES AND CALCULATIONS 2,https://docs.ie.edu/university/Grados/BAS/STRUCTURAL_TYPES_AND_CALCULATIONS_2.pdf
+BAS,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
+BAS,PROFESSIONAL PRACTICE,https://docs.ie.edu/university/Grados/BAS/PROFESSIONAL_PRACTICE.pdf
+BAS,ARCHITECTURAL HISTORY AND THEORY 3,https://docs.ie.edu/university/Grados/BAS/ARCHITECTURAL_HISTORY_AND_THEORY_3.pdf
+BAS,CONSTRUCTION SYSTEMS AND APPLICATIONS 4,https://docs.ie.edu/university/Grados/BAS/CONSTRUCTION_SYSTEMS_AND_APPLICATIONS_4.pdf
+BAS,DESIGN STUDIO 7 AGGREGATION,https://docs.ie.edu/university/Grados/BAS/DESIGN_STUDIO_7_AGGREGATION.pdf
+BAS,URBAN MANAGEMENT,https://docs.ie.edu/university/Grados/BAS/URBAN_MANAGEMENT.pdf
+BAS,Architectural History and Theory 4,https://docs.ie.edu/university/Grados/BAS/Architectural_History_and_Theory_4.pdf
+BAS,Advances Structures and Foundations,https://docs.ie.edu/university/Grados/BAS/Advances_Structures_and_Foundations.pdf
+BAS,Design Studio 8 Territory A,https://docs.ie.edu/university/Grados/BAS/Design_Studio_8_Territory_A.pdf
+BAS,Urban Strategies 2,https://docs.ie.edu/university/Grados/BAS/Urban_Strategies_2.pdf
+BAS,DEW3,https://docs.ie.edu/university/Grados/BAS/DEW3.pdf
+BAS,Advanced Architectural Graphics,https://docs.ie.edu/university/Grados/BAS/Advanced_Architectural_Graphics.pdf
+BAS,ALTERNATIVE PRACTISES URBAN INFRASTRUCTURES,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_URBAN_INFRASTRUCTURES.pdf
+BAS,ALTERNATIVE PRACTISES RESEARCH METHODS,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_RESEARCH_METHODS.pdf
+BAS,ALTERNATIVE PRACTISES DESIGN,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_DESIGN.pdf
+BAS,ALTERNATIVE PRACTISES LANDSCAPE AND ENVIRONMENT,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_LANDSCAPE_AND_ENVIRONMENT.pdf
+BAS,ALTERNATIVE PRACTISES DIGITAL STUDIES,https://docs.ie.edu/university/Grados/BAS/ALTERNATIVE_PRACTISES_DIGITAL_STUDIES.pdf
+BAS,Undergraduate Thesis,https://docs.ie.edu/university/Grados/BAS/Undergraduate_Thesis.pdf
+BAS,DS9 synthesis,https://docs.ie.edu/university/Grados/BAS/DS9_synthesis.pdf
+BAS,Advanced Technical Studies A,https://docs.ie.edu/university/Grados/BAS/Advanced_Technical_Studies_A.pdf
+bachelor-in-behavior-and-social-sciences,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+bachelor-in-behavior-and-social-sciences,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+bachelor-in-behavior-and-social-sciences,fundamentals of social science(1),https://files.thesaurus.ie.edu/fundamentals-of-social-science(1).pdf
+bachelor-in-behavior-and-social-sciences,fundamentals of human behavior(1),https://files.thesaurus.ie.edu/fundamentals-of-human-behavior(1).pdf
+bachelor-in-behavior-and-social-sciences,writing skills(6),https://files.thesaurus.ie.edu/writing-skills(6).pdf
+bachelor-in-behavior-and-social-sciences,learning to observe experiment and survey(1),https://files.thesaurus.ie.edu/learning-to-observe-experiment-and-survey(1).pdf
+bachelor-in-behavior-and-social-sciences,power and inequality(1),https://files.thesaurus.ie.edu/power-and-inequality(1).pdf
+bachelor-in-behavior-and-social-sciences,teamworking and collaboration skills,https://files.thesaurus.ie.edu/teamworking-and-collaboration-skills.pdf
+bachelor-in-behavior-and-social-sciences,fundamentals of probability and statistics(3),https://files.thesaurus.ie.edu/fundamentals-of-probability-and-statistics(3).pdf
+bachelor-in-behavior-and-social-sciences,presentation skills(2),https://files.thesaurus.ie.edu/presentation-skills(2).pdf
+bachelor-in-behavior-and-social-sciences,becoming a behavioral scientist(1),https://files.thesaurus.ie.edu/becoming-a-behavioral-scientist(1).pdf
+bachelor-in-behavior-and-social-sciences,organizational and employee behavior,https://files.thesaurus.ie.edu/organizational-and-employee-behavior.pdf
+bachelor-in-behavior-and-social-sciences,quantitative tools for studying people(1),https://files.thesaurus.ie.edu/quantitative-tools-for-studying-people(1).pdf
+bachelor-in-behavior-and-social-sciences,humanities 2023,https://files.thesaurus.ie.edu/humanities-2023.pdf
+bachelor-in-behavior-and-social-sciences,the psychology of cognition and emotion(1),https://files.thesaurus.ie.edu/the-psychology-of-cognition-and-emotion(1).pdf
+bachelor-in-behavior-and-social-sciences,personality individual and cultural differences,https://files.thesaurus.ie.edu/personality-individual-and-cultural-differences.pdf
+bachelor-in-behavior-and-social-sciences,qualitative tools for studying people(1),https://files.thesaurus.ie.edu/qualitative-tools-for-studying-people(1).pdf
+bachelor-in-behavior-and-social-sciences,social and digital anthropology,https://files.thesaurus.ie.edu/social-and-digital-anthropology.pdf
+bachelor-in-behavior-and-social-sciences,technology(8),https://files.thesaurus.ie.edu/technology(8).pdf
+bachelor-in-behavior-and-social-sciences,data insights and visualization(1),https://files.thesaurus.ie.edu/data-insights-and-visualization(1).pdf
+bachelor-in-behavior-and-social-sciences,fundamentals of data analysis(1),https://files.thesaurus.ie.edu/fundamentals-of-data-analysis(1).pdf
+bachelor-in-behavior-and-social-sciences,entrepreneurship(8),https://files.thesaurus.ie.edu/entrepreneurship(8).pdf
+bachelor-in-behavior-and-social-sciences,understanding population and demography,https://files.thesaurus.ie.edu/understanding-population-and-demography.pdf
+bachelor-in-behavior-and-social-sciences,introduction to economics(2),https://files.thesaurus.ie.edu/introduction-to-economics(2).pdf
+bachelor-in-behavior-and-social-sciences,law 26 behavior(2),https://files.thesaurus.ie.edu/law-26-behavior(2).pdf
+bachelor-in-behavior-and-social-sciences,behavior and the brain(1),https://files.thesaurus.ie.edu/behavior-and-the-brain(1).pdf
+bachelor-in-behavior-and-social-sciences,welfare and policy design(1),https://files.thesaurus.ie.edu/welfare-and-policy-design(1).pdf
+bachelor-in-behavior-and-social-sciences,behavioral economics and decision making(1),https://files.thesaurus.ie.edu/behavioral-economics-and-decision-making(1).pdf
+bachelor-in-behavior-and-social-sciences,marketing advertising consumer behavior,https://files.thesaurus.ie.edu/marketing-advertising-consumer-behavior.pdf
+bachelor-in-behavior-and-social-sciences,ie challenge(8),https://files.thesaurus.ie.edu/ie-challenge(8).pdf
+bachelor-in-behavior-and-social-sciences,optativas bbss(4),https://files.thesaurus.ie.edu/optativas-bbss(4).pdf
+bachelor-in-behavior-and-social-sciences,optativas bbss(2),https://files.thesaurus.ie.edu/optativas-bbss(2).pdf
+bachelor-in-behavior-and-social-sciences,behavior design,https://files.thesaurus.ie.edu/behavior-design.pdf
+bachelor-in-behavior-and-social-sciences,design thinking brainstorming and creativity for innovation,https://files.thesaurus.ie.edu/design-thinking-brainstorming-and-creativity-for-innovation.pdf
+bachelor-in-behavior-and-social-sciences,driving change in organizations,https://files.thesaurus.ie.edu/driving-change-in-organizations.pdf
+bachelor-in-behavior-and-social-sciences,public opinion,https://files.thesaurus.ie.edu/public-opinion.pdf
+bachelor-in-behavior-and-social-sciences,identity diversity and cross cultural,https://files.thesaurus.ie.edu/identity-diversity-and-cross-cultural.pdf
+bachelor-in-behavior-and-social-sciences,the social self,https://files.thesaurus.ie.edu/the-social-self.pdf
+bachelor-in-behavior-and-social-sciences,capstone project,https://files.thesaurus.ie.edu/capstone-project.pdf
+two-paths-one-powerful-outcome,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+two-paths-one-powerful-outcome,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BCDM,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BCDM,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BCDM,communication foundations,https://files.thesaurus.ie.edu/communication-foundations.pdf
+BCDM,photography,https://files.thesaurus.ie.edu/photography.pdf
+BCDM,globalization and cross cultural communication,https://files.thesaurus.ie.edu/globalization-and-cross-cultural-communication.pdf
+BCDM,writing for media,https://files.thesaurus.ie.edu/writing-for-media.pdf
+BCDM,graphic design and infographics,https://files.thesaurus.ie.edu/graphic-design-and-infographics.pdf
+BCDM,writing skills 1,https://files.thesaurus.ie.edu/writing-skills_1.pdf
+BCDM,public opinion persuasion and engagement,https://files.thesaurus.ie.edu/public-opinion-persuasion-and-engagement.pdf
+BCDM,media culture and ethics,https://files.thesaurus.ie.edu/media-culture-and-ethics.pdf
+BCDM,video production,https://files.thesaurus.ie.edu/video-production.pdf
+BCDM,webs and apps design,https://files.thesaurus.ie.edu/webs-and-apps-design.pdf
+BCDM,corporate communication,https://files.thesaurus.ie.edu/corporate-communication.pdf
+BCDM,visual storytelling,https://files.thesaurus.ie.edu/visual-storytelling.pdf
+BCDM,communication and law,https://files.thesaurus.ie.edu/communication-and-law.pdf
+BCDM,media and entertainment industries,https://files.thesaurus.ie.edu/media-and-entertainment-industries.pdf
+BCDM,digital marketing and social media,https://files.thesaurus.ie.edu/digital-marketing-and-social-media.pdf
+BCDM,consumer behavior,https://files.thesaurus.ie.edu/consumer-behavior.pdf
+BCDM,media relations and training,https://files.thesaurus.ie.edu/media-relations-and-training.pdf
+BCDM,innovation lab,https://files.thesaurus.ie.edu/innovation-lab.pdf
+BCDM,creative project management,https://files.thesaurus.ie.edu/creative-project-management.pdf
+BCDM,political communication and advocacy campaigns,https://files.thesaurus.ie.edu/political-communication-and-advocacy-campaigns.pdf
+BCSAI,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BCSAI,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BCSAI,INTRODUCTION TO BUSINESS MANAGEMENT,https://docs.ie.edu/university/Grados/BCSAI/INTRODUCTION_TO_BUSINESS_MANAGEMENT.pdf
+BCSAI,THE BIG HISTORY OF IDEAS AND INNOVATION,https://docs.ie.edu/university/Grados/BCSAI/THE_BIG_HISTORY_OF_IDEAS_AND_INNOVATION.pdf
+BCSAI,FUNDAMENTALS OF PROBABILITY AND STATISTICS,https://docs.ie.edu/university/Grados/BCSAI/FUNDAMENTALS_OF_PROBABILITY_AND_STATISTICS.pdf
+BCSAI,DISCRETE MATHEMATICS,https://docs.ie.edu/university/Grados/BCSAI/DISCRETE_MATHEMATICS.pdf
+BCSAI,LEARNING TO OBSERVE EXPERIMENT AND SURVEY,https://docs.ie.edu/university/Grados/BCSAI/LEARNING_TO_OBSERVE_EXPERIMENT_AND_SURVEY.pdf
+BCSAI,Principles of Programming,https://docs.ie.edu/university/Grados/BCSAI/Principles_of_Programming.pdf
+BCSAI,PHYSICS FOR COMPUTER SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PHYSICS_FOR_COMPUTER_SCIENCE.pdf
+BCSAI,FUNDAMENTALS OF DATA ANALYSIS,https://docs.ie.edu/university/Grados/BCSAI/FUNDAMENTALS_OF_DATA_ANALYSIS.pdf
+BCSAI,SIMULATING AND MODELING TO UNDERSTAND CHANGE,https://docs.ie.edu/university/Grados/BCSAI/SIMULATING_AND_MODELING_TO_UNDERSTAND_CHANGE.pdf
+BCSAI,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
+BCSAI,CALCULUS FOR COMPUTER SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/CALCULUS_FOR_COMPUTER_SCIENCE.pdf
+BCSAI,COMPUTER PROGRAMMING 1,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_PROGRAMMING_1.pdf
+BCSAI,CLOUD COMPUTING,https://docs.ie.edu/university/Grados/BCSAI/CLOUD_COMPUTING.pdf
+BCSAI,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
+BCSAI,ALGORITHMS  DATA STRUCTURES,https://docs.ie.edu/university/Grados/BCSAI/ALGORITHMS__DATA_STRUCTURES.pdf
+BCSAI,COMPUTER ARCHITECTURE NETWORK TECHNOLOGY  OPERATING,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_ARCHITECTURE_NETWORK_TECHNOLOGY__OPERATING.pdf
+BCSAI,MATRICES  LINEAR TRANSFORMATIONS,https://docs.ie.edu/university/Grados/BCSAI/MATRICES__LINEAR_TRANSFORMATIONS.pdf
+BCSAI,DESIGNING AND USING DATABASES,https://docs.ie.edu/university/Grados/BCSAI/DESIGNING_AND_USING_DATABASES.pdf
+BCSAI,PROBABILITY FOR COMPUTING SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PROBABILITY_FOR_COMPUTING_SCIENCE.pdf
+BCSAI,AI MACHINE LEARNING FOUNDATIONS,https://docs.ie.edu/university/Grados/BCSAI/AI_MACHINE_LEARNING_FOUNDATIONS.pdf
+BCSAI,AI PERSONALITY AND EMOTION FOR AI DESIGN,https://docs.ie.edu/university/Grados/BCSAI/AI_PERSONALITY_AND_EMOTION_FOR_AI_DESIGN.pdf
+BCSAI,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
+BCSAI,COMPUTER PROGRAMMING 2,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_PROGRAMMING_2.pdf
+BCSAI,SOFTWARE DEVELOPMENT AND DEVOPS,https://docs.ie.edu/university/Grados/BCSAI/SOFTWARE_DEVELOPMENT_AND_DEVOPS.pdf
+BCSAI,HIGH PERFORMANCE COMPUTING,https://docs.ie.edu/university/Grados/BCSAI/HIGH_PERFORMANCE_COMPUTING.pdf
+BCSAI,AI REASONING  PROBLEM SOLVING,https://docs.ie.edu/university/Grados/BCSAI/AI_REASONING__PROBLEM_SOLVING.pdf
+BCSAI,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
+BCSAI,AI NATURAL LANGUAGE PROCESSING  SEMANTIC ANALYSIS,https://docs.ie.edu/university/Grados/BCSAI/AI_NATURAL_LANGUAGE_PROCESSING__SEMANTIC_ANALYSIS.pdf
+BCSAI,AI COMPUTER VISION,https://docs.ie.edu/university/Grados/BCSAI/AI_COMPUTER_VISION.pdf
+BCSAI,AI CHATBOTS  RECOMMENDATION ENGINES,https://docs.ie.edu/university/Grados/BCSAI/AI_CHATBOTS__RECOMMENDATION_ENGINES.pdf
+BCSAI,AI STATISTICAL LEARNING  PREDICTION,https://docs.ie.edu/university/Grados/BCSAI/AI_STATISTICAL_LEARNING__PREDICTION.pdf
+BCSAI,AI REINFORCEMENT LEARNING,https://docs.ie.edu/university/Grados/BCSAI/AI_REINFORCEMENT_LEARNING.pdf
+BCSAI,Electives,https://docs.ie.edu/university/Grados/BCSAI/Electives.pdf
+BCSAI,Robotics Automation,https://docs.ie.edu/university/Grados/BCSAI/Robotics_Automation.pdf
+BCSAI,BLOCKCHAIN CRYPTOCURRENCIES  FINTECH,https://docs.ie.edu/university/Grados/BCSAI/BLOCKCHAIN_CRYPTOCURRENCIES__FINTECH.pdf
+BCSAI,ETHICS POLICY MAKING AND LEGISLATION IN CS,https://docs.ie.edu/university/Grados/BCSAI/ETHICS_POLICY_MAKING_AND_LEGISLATION_IN_CS.pdf
+BCSAI,UX UI  HUMAN,https://docs.ie.edu/university/Grados/BCSAI/UX_UI__HUMAN.pdf
+BCSAI,Capstone Project,https://docs.ie.edu/university/Grados/BCSAI/Capstone_Project.pdf
+BDBA,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BDBA,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BDBA,Fundamentals of Probability and Statistics,https://docs.ie.edu/university/Grados/BDBA/Fundamentals_of_Probability_and_Statistics.pdf
+BDBA,Fundamentals of Human Behavior,https://docs.ie.edu/university/Grados/BDBA/Fundamentals_of_Human_Behavior.pdf
+BDBA,Communication Skills,https://docs.ie.edu/university/Grados/BDBA/Communication_Skills.pdf
+BDBA,The Big History of Ideas and Innovation,https://docs.ie.edu/university/Grados/BDBA/The_Big_History_of_Ideas_and_Innovation.pdf
+BDBA,Introduction to Programming for Data Science,https://docs.ie.edu/university/Grados/BDBA/Introduction_to_Programming_for_Data_Science.pdf
+BDBA,Learning to Observe Experiment and Survey,https://docs.ie.edu/university/Grados/BDBA/Learning_to_Observe_Experiment_and_Survey.pdf
+BDBA,Fundamentals of Data Analysis,https://docs.ie.edu/university/Grados/BDBA/Fundamentals_of_Data_Analysis.pdf
+BDBA,Professional Bootcamp Leadership,https://docs.ie.edu/university/Grados/BDBA/Professional_Bootcamp_Leadership.pdf
+BDBA,Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
+BDBA,Computational Thinking for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Computational_Thinking_for_Data_Management_%26_Analysis.pdf
+BDBA,Simulating and Modeling to Understand Change,https://docs.ie.edu/university/Grados/BDBA/Simulating_and_Modeling_to_Understand_Change.pdf
+BDBA,Data Insights and Visualization,https://docs.ie.edu/university/Grados/BDBA/Data_Insights_and_Visualization.pdf
+BDBA,Algorithms and Data Structure,https://docs.ie.edu/university/Grados/BDBA/Algorithms_and_Data_Structure.pdf
+BDBA,Time Series Analysis,https://docs.ie.edu/university/Grados/BDBA/Time_Series_Analysis.pdf
+BDBA,Mathematics for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Mathematics_for_Data_Management_%26_Analysis.pdf
+BDBA,Probability %26 Statistics for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Probability_%26_Statistics_for_Data_Management_%26_Analysis.pdf
+BDBA,Programming for Data Management %26 Analysis,https://docs.ie.edu/university/Grados/BDBA/Programming_for_Data_Management_%26_Analysis.pdf
+BDBA,TECH,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/TECH.pdf
+BDBA,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/BIE_acreditacion/IE_Impact_Entrepreneurship.pdf
+BDBA,AI Machine Learning Foundations,https://docs.ie.edu/university/Grados/BDBA/AI_Machine_Learning_Foundations.pdf
+BDBA,Introduction to Business and Social Analytics,https://docs.ie.edu/university/Grados/BDBA/Introduction_to_Business_and_Social_Analytics.pdf
+BDBA,Forecasting for Time Series,https://docs.ie.edu/university/Grados/BDBA/Forecasting_for_Time_Series.pdf
+BDBA,Operating Systems %26 Parallel Computing,https://docs.ie.edu/university/Grados/BDBA/Operating_Systems_%26_Parallel_Computing.pdf
+BDBA,Analyzing Social Media,https://docs.ie.edu/university/Grados/BDBA/Analyzing_Social_Media.pdf
+BDBA,Project Management,https://docs.ie.edu/university/Grados/BDBA/Project_Management.pdf
+BDBA,AI Machine Learning %26 Analytics,https://docs.ie.edu/university/Grados/BDBA/AI_Machine_Learning_%26_Analytics.pdf
+BDBA,Recommendation Engines,https://docs.ie.edu/university/Grados/BDBA/Recommendation_Engines.pdf
+BDBA,IE Challenge,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/IE_Challenge.pdf
+BDBA,Big Data Technology,https://docs.ie.edu/university/Grados/BDBA/Big_Data_Technology.pdf
+BDBA,Stream Analytics,https://docs.ie.edu/university/Grados/BDBA/Stream_Analytics.pdf
+BDBA,Advanced Databases,https://docs.ie.edu/university/Grados/BDBA/Advanced_Databases.pdf
+BDBA,Designing AI %26 Implementing Smart Technologies,https://docs.ie.edu/university/Grados/BDBA/Designing_AI_%26_Implementing_Smart_Technologies.pdf
+BDBA,Professional Bootcamp Teamwork,https://docs.ie.edu/university/Grados/BDBA/Professional_Bootcamp_Teamwork.pdf
+BDBA,NLP Text Mining and Semantic Analysis,https://docs.ie.edu/university/Grados/BDBA/NLP_Text_Mining_and_Semantic_Analysis.pdf
+BDBA,Data Visualization Dashboards %26 Storytelling,https://docs.ie.edu/university/Grados/BDBA/Data_Visualization_Dashboards_%26_Storytelling.pdf
+BDBA,Emerging Topics in Data Analysis %26 Management,https://docs.ie.edu/university/Grados/BDBA/Emerging_Topics_in_Data_Analysis_%26_Management.pdf
+BDBA,Data Governance,https://docs.ie.edu/university/Grados/BDBA/Data_Governance.pdf
+BDBA,Advanced Topic Customer Analytics,https://docs.ie.edu/university/Grados/BDBA/Advanced_Topic_Customer_Analytics.pdf
+BDBA,Advanced Topic Financial Analytics,https://docs.ie.edu/university/Grados/BDBA/Advanced_Topic_Financial_Analytics.pdf
+BDBA,Advanced Topic Connected Industries Smart Cities %26 E Governments,https://docs.ie.edu/university/Grados/BDBA/Advanced_Topic_Connected_Industries_Smart_Cities_%26_E-Governments.pdf
+BDBA,Capstone Project,https://docs.ie.edu/university/Grados/BDBA/Capstone_Project.pdf
+BDBA,modificacion abril 2023,https://files.thesaurus.ie.edu/modificacion-abril-2023.pdf
+BDBA,modificacion marzo 2022,https://files.thesaurus.ie.edu/modificacion-marzo-2022.pdf
+BDBA,alta junio 2018,https://files.thesaurus.ie.edu/alta-junio-2018.pdf
+BDES,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BDES,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BDES,introduction to design studio i,https://files.thesaurus.ie.edu/introduction-to-design-studio-i.pdf
+BDES,design history i,https://files.thesaurus.ie.edu/design-history-i.pdf
+BDES,design skills,https://files.thesaurus.ie.edu/design-skills.pdf
+BDES,psychology and user center design,https://files.thesaurus.ie.edu/psychology-and-user-center-design.pdf
+BDES,presentation skills(1),https://files.thesaurus.ie.edu/presentation-skills(1).pdf
+BDES,writing skills(2),https://files.thesaurus.ie.edu/writing-skills(2).pdf
+BDES,intro to design studio ii collaborative design studio,https://files.thesaurus.ie.edu/intro-to-design-studio-ii-collaborative-design-studio.pdf
+BDES,design history ii,https://files.thesaurus.ie.edu/design-history-ii.pdf
+BDES,visualization and representation techniques,https://files.thesaurus.ie.edu/visualization-and-representation-techniques.pdf
+BDES,business management,https://files.thesaurus.ie.edu/business-management.pdf
+BDES,humanities(1),https://files.thesaurus.ie.edu/humanities(1).pdf
+BDES,design studio i,https://files.thesaurus.ie.edu/design-studio-i.pdf
+BDES,design methodology,https://files.thesaurus.ie.edu/design-methodology.pdf
+BDES,research techniques,https://files.thesaurus.ie.edu/research-techniques.pdf
+BDES,interactive and digital tools,https://files.thesaurus.ie.edu/interactive-and-digital-tools.pdf
+BDES,sustainability,https://files.thesaurus.ie.edu/sustainability.pdf
+BDES,technology(2),https://files.thesaurus.ie.edu/technology(2).pdf
+BDES,ethnography,https://files.thesaurus.ie.edu/ethnography.pdf
+BDES,design studio ii,https://files.thesaurus.ie.edu/design-studio-ii.pdf
+BDES,design and criticism,https://files.thesaurus.ie.edu/design-and-criticism.pdf
+BDES,material and applications i,https://files.thesaurus.ie.edu/material-and-applications-i.pdf
+BDES,entrepreneurship(1),https://files.thesaurus.ie.edu/entrepreneurship(1).pdf
+BDES,design studio iii,https://files.thesaurus.ie.edu/design-studio-iii.pdf
+BDES,typography layout and presentation,https://files.thesaurus.ie.edu/typography-layout-and-presentation.pdf
+BDES,materials and applications ii,https://files.thesaurus.ie.edu/materials-and-applications-ii.pdf
+BDES,quantitative methods,https://files.thesaurus.ie.edu/quantitative-methods.pdf
+BDES,ie challenge(2),https://files.thesaurus.ie.edu/ie-challenge(2).pdf
+BDES,electives(1),https://files.thesaurus.ie.edu/electives(1).pdf
+BDES,design studio iv,https://files.thesaurus.ie.edu/design-studio-iv.pdf
+BDES,contemporary design trends,https://files.thesaurus.ie.edu/contemporary-design-trends.pdf
+BDES,design management,https://files.thesaurus.ie.edu/design-management.pdf
+BDES,programming for designers,https://files.thesaurus.ie.edu/programming-for-designers.pdf
+BDES,fabrication technologies,https://files.thesaurus.ie.edu/fabrication-technologies.pdf
+BDES,design narratives,https://files.thesaurus.ie.edu/design-narratives.pdf
+BDES,portfolio design,https://files.thesaurus.ie.edu/portfolio-design.pdf
+BDES,processes and design theory,https://files.thesaurus.ie.edu/processes-and-design-theory.pdf
+BDES,final project(2),https://files.thesaurus.ie.edu/final-project(2).pdf
+BEC,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BEC,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BEC,foundations of macroeconomics,https://files.thesaurus.ie.edu/foundations-of-macroeconomics.pdf
+BEC,foundations of microeconomics luis,https://files.thesaurus.ie.edu/foundations-of-microeconomics-luis.pdf
+BEC,economic history 1,https://files.thesaurus.ie.edu/economic-history_1.pdf
+BEC,mathematics for economists 1,https://files.thesaurus.ie.edu/mathematics-for-economists_1.pdf
+BEC,probability and statistics 1,https://files.thesaurus.ie.edu/probability-and-statistics_1.pdf
+BEC,international trade and monetary system,https://files.thesaurus.ie.edu/international-trade-and-monetary-system.pdf
+BEC,game theory,https://files.thesaurus.ie.edu/game-theory.pdf
+BEC,development and growth economics,https://files.thesaurus.ie.edu/development-and-growth-economics.pdf
+BEC,programming for economists i 1,https://files.thesaurus.ie.edu/programming-for-economists-i_1.pdf
+BEC,research methods,https://files.thesaurus.ie.edu/research-methods.pdf
+BEC,ie humanities,https://files.thesaurus.ie.edu/ie-humanities.pdf
+BEC,public economics and political economy,https://files.thesaurus.ie.edu/public-economics-and-political-economy.pdf
+BEC,industrial organization and strategy,https://files.thesaurus.ie.edu/industrial-organization-and-strategy.pdf
+BEC,financial economics and accounting,https://files.thesaurus.ie.edu/financial-economics-and-accounting.pdf
+BEC,econometrics 2,https://files.thesaurus.ie.edu/econometrics_2.pdf
+BEC,technology 2,https://files.thesaurus.ie.edu/technology_2.pdf
+BEC,new economy digital ecosystems platforms,https://files.thesaurus.ie.edu/new-economy-digital-ecosystems-platforms.pdf
+BEC,market auction and contract design,https://files.thesaurus.ie.edu/market-auction-and-contract-design.pdf
+BEC,institutional economics,https://files.thesaurus.ie.edu/institutional-economics.pdf
+BEC,corporate finance rodrigo hurtado del nido,https://files.thesaurus.ie.edu/corporate-finance-rodrigo-hurtado-del-nido.pdf
+BEC,economic modeling and simulation,https://files.thesaurus.ie.edu/economic-modeling-and-simulation.pdf
+BEC,programming for economists ii,https://files.thesaurus.ie.edu/programming-for-economists-ii.pdf
+BEC,economic reporting lab,https://files.thesaurus.ie.edu/economic-reporting-lab.pdf
+BEC,ie impact entrepreneurship,https://files.thesaurus.ie.edu/ie-impact-entrepreneurship.pdf
+BEC,capital markets,https://files.thesaurus.ie.edu/capital-markets.pdf
+BEC,computational macroeconomics 1,https://files.thesaurus.ie.edu/computational-macroeconomics_1.pdf
+BEC,microeconometrics 1,https://files.thesaurus.ie.edu/microeconometrics_1.pdf
+BEC,environmental economics,https://files.thesaurus.ie.edu/environmental-economics.pdf
+BEC,labor economics digitalization and ai,https://files.thesaurus.ie.edu/labor-economics-digitalization-and-ai.pdf
+BEC,blockchain and cryptocurrency,https://files.thesaurus.ie.edu/blockchain-and-cryptocurrency.pdf
+BEC,ie challenge 4,https://files.thesaurus.ie.edu/ie-challenge_4.pdf
+BEC,electives3,https://files.thesaurus.ie.edu/electives3.pdf
+BEC,electivos4,https://files.thesaurus.ie.edu/electivos4.pdf
+BEC,econometrics ii forecasting and identification,https://files.thesaurus.ie.edu/econometrics-ii-forecasting-and-identification.pdf
+BEC,machine learning and analytics for,https://files.thesaurus.ie.edu/machine-learning-and-analytics-for.pdf
+BEC,economic research regions and industries,https://files.thesaurus.ie.edu/economic-research-regions-and-industries.pdf
+BEC,economic research consumers and markets,https://files.thesaurus.ie.edu/economic-research-consumers-and-markets.pdf
+BEC,thesis syllabus,https://files.thesaurus.ie.edu/thesis-syllabus.pdf
+BESS,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BESS,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+bachelor-in-fashion-design,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+bachelor-in-fashion-design,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+bachelor-in-humanities,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+bachelor-in-humanities,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+bachelor-in-humanities,GLOBAL HISTORY I,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_I.pdf
+bachelor-in-humanities,PHILOSOPHICAL QUESTIONS %26 METHODS,https://docs.ie.edu/university/Grados/BHUM/PHILOSOPHICAL_QUESTIONS_%26_METHODS.pdf
+bachelor-in-humanities,DIGITAL HUMANITIES,https://docs.ie.edu/university/Grados/BHUM/DIGITAL_HUMANITIES.pdf
+bachelor-in-humanities,ADVANCED WRITING SKILLS,https://docs.ie.edu/university/Grados/BHUM/ADVANCED_WRITING_SKILLS.pdf
+bachelor-in-humanities,MANAGEMENT TOOLS AND PRINCIPLES,https://docs.ie.edu/university/Grados/BHUM/MANAGEMENT_TOOLS_AND_PRINCIPLES.pdf
+bachelor-in-humanities,GLOBAL HISTORY II,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_II.pdf
+bachelor-in-humanities,RHETORIC AND STORYTELLING,https://docs.ie.edu/university/Grados/BHUM/RHETORIC_AND_STORYTELLING.pdf
+bachelor-in-humanities,FOUNDATIONS OF SOCIAL THEORY,https://docs.ie.edu/university/Grados/BHUM/FOUNDATIONS_OF_SOCIAL_THEORY.pdf
+bachelor-in-humanities,Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
+bachelor-in-humanities,INTRODUCTION TO PROGRAMMING,https://docs.ie.edu/university/Grados/BHUM/INTRODUCTION_TO_PROGRAMMING.pdf
+bachelor-in-humanities,LOGIC AND ALGORITHMIC THINKING,https://docs.ie.edu/university/Grados/BHUM/LOGIC_AND_ALGORITHMIC_THINKING.pdf
+BIR,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BIR,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BIR,introduction to political science(1),https://files.thesaurus.ie.edu/introduction-to-political-science(1).pdf
+BIR,political theory(2),https://files.thesaurus.ie.edu/political-theory(2).pdf
+BIR,history of int relations up to 1945,https://files.thesaurus.ie.edu/history-of-int-relations-up-to-1945.pdf
+BIR,microeconomics(3),https://files.thesaurus.ie.edu/microeconomics(3).pdf
+BIR,bir languages ni,https://files.thesaurus.ie.edu/bir-languages-ni.pdf
+BIR,international relations theory,https://files.thesaurus.ie.edu/international-relations-theory.pdf
+BIR,history of ir since 1945,https://files.thesaurus.ie.edu/history-of-ir-since-1945.pdf
+BIR,macroeconomics(2),https://files.thesaurus.ie.edu/macroeconomics(2).pdf
+BIR,bir language 1year 2nd term,https://files.thesaurus.ie.edu/bir-language-1year-2nd-term.pdf
+BIR,humanities 2023(4),https://files.thesaurus.ie.edu/humanities-2023(4).pdf
+BIR,SyllabusIRSkills I,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-I.pdf
+BIR,SyllabusIRSkills II,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-II.pdf
+BIR,comparative politics,https://files.thesaurus.ie.edu/comparative-politics.pdf
+BIR,25 26 bie research methods professor antonella fazio 1,https://files.thesaurus.ie.edu/25-26-bie-research-methods-professor-antonella-fazio-1.pdf
+BIR,technology with impact course 1,https://files.thesaurus.ie.edu/technology-with-impact-course-1.pdf
+BIR,25 26 bir international law professor borislava kroumova djoneva,https://files.thesaurus.ie.edu/25-26-bir-international-law-professor-borislava-kroumova-djoneva.pdf
+BIR,technology(4),https://files.thesaurus.ie.edu/technology(4).pdf
+BIR,languages niii,https://files.thesaurus.ie.edu/languages-niii.pdf
+BIR,SyllabusIRSkills III,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-III.pdf
+BIR,aid development and social entr,https://files.thesaurus.ie.edu/aid-development-and-social-entr.pdf
+BIR,topics in foreign policy(4),https://files.thesaurus.ie.edu/topics-in-foreign-policy(4).pdf
+BIR,international political economy,https://files.thesaurus.ie.edu/international-political-economy.pdf
+BIR,entrepreneurship(4),https://files.thesaurus.ie.edu/entrepreneurship(4).pdf
+BIR,bir language 2year 2nd term,https://files.thesaurus.ie.edu/bir-language-2year-2nd-term.pdf
+BIR,SyllabusIRSkills IV,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-IV.pdf
+BIR,public opinion 26 political,https://files.thesaurus.ie.edu/public-opinion-26-political.pdf
+BIR,25 26 bir global gov 26 int institutions professor zoe xincheng ge,https://files.thesaurus.ie.edu/25-26-bir-global-gov-26-int-institutions-professor-zoe-xincheng-ge.pdf
+BIR,the european union,https://files.thesaurus.ie.edu/the-european-union.pdf
+BIR,languages nv,https://files.thesaurus.ie.edu/languages-nv.pdf
+BIR,ie challenge(4),https://files.thesaurus.ie.edu/ie-challenge(4).pdf
+BIR,electives 4 1,https://files.thesaurus.ie.edu/electives-4-1.pdf
+BIR,25 26 bir int trade 26 finance professor pablo aguirre carmona,https://files.thesaurus.ie.edu/25-26-bir-int-trade-26-finance-professor-pablo-aguirre-carmona.pdf
+BIR,25 26 bir peace 26 conflict resolution professor sigrid weber,https://files.thesaurus.ie.edu/25-26-bir-peace-26-conflict-resolution-professor-sigrid-weber.pdf
+BIR,25 26 bir project management professor javier martefbfbdnez llorca,https://files.thesaurus.ie.edu/25-26-bir-project-management-professor-javier-martefbfbdnez-llorca.pdf
+BIR,thesis and capstone syllabus combined,https://files.thesaurus.ie.edu/thesis-and-capstone-syllabus-combined.pdf
+BIR,modificacion abril 2023 2,https://files.thesaurus.ie.edu/modificacion-abril-2023_2.pdf
+BIR,modificacion diciembre 2020,https://files.thesaurus.ie.edu/modificacion-diciembre-2020.pdf
+BIR,renovacion acreditacion julio 2018,https://files.thesaurus.ie.edu/renovacion-acreditacion-julio-2018.pdf
+LLB,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+LLB,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+LLB,EU LEGAL HISTORY LARRAnAGA,https://docs.ie.edu/university/Grados/LLB/2025/EU_LEGAL_HISTORY_LARRAnAGA.pdf
+LLB,CONSTITUTIONAL LAW KOUROUTAKIS,https://docs.ie.edu/university/Grados/LLB/2025/CONSTITUTIONAL_LAW-KOUROUTAKIS.pdf
+LLB,INTRO PRIVATE LAW CASILDA CORTES,https://docs.ie.edu/university/Grados/LLB/2025/INTRO_PRIVATE_LAW_CASILDA_CORTES.pdf
+LLB,ACCOUNTING JORGE COLVIN,https://docs.ie.edu/university/Grados/LLB/2025/ACCOUNTING_JORGE_COLVIN.pdf
+LLB,ECONOMICS GERARDO JACOBS,https://docs.ie.edu/university/Grados/LLB/2025/ECONOMICS_GERARDO_JACOBS.pdf
+LLB,ETHICS  VALUES ELENA GARRIGUES,https://docs.ie.edu/university/Grados/LLB/2025/ETHICS__VALUES_ELENA_GARRIGUES.pdf
+LLB,CRIMINAL LAW I PALMIOTTO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_I_PALMIOTTO.pdf
+LLB,CONTRACTS MALO,https://docs.ie.edu/university/Grados/LLB/2025/CONTRACTS_MALO.pdf
+LLB,WRITING MARVEL,https://docs.ie.edu/university/Grados/LLB/2025/WRITING_MARVEL.pdf
+LLB,LEGAL THOUGHT BAUTERS,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_THOUGHT_BAUTERS.pdf
+LLB,ADMINISTRATIVE LAW MARTIN ARRIBAS,https://docs.ie.edu/university/Grados/LLB/2025/ADMINISTRATIVE_LAW_MARTIN_ARRIBAS.pdf
+LLB,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
+LLB,CRIMINAL LAW II CAPELLO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_II_CAPELLO.pdf
+LLB,PROPERTY ZAMORA,https://docs.ie.edu/university/Grados/LLB/2025/PROPERTY_ZAMORA.pdf
+LLB,ADMINS  ECONOMIC REGULATIONS LAZAR,https://docs.ie.edu/university/Grados/LLB/2025/ADMINS__ECONOMIC_REGULATIONS_LAZAR.pdf
+LLB,PUBLIC INTER LAW DELERUE,https://docs.ie.edu/university/Grados/LLB/2025/PUBLIC_INTER_LAW_DELERUE.pdf
+LLB,PERSUASION ALMANSA,https://docs.ie.edu/university/Grados/LLB/2025/PERSUASION_ALMANSA.pdf
+LLB,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
+LLB,LABOUR LAW I OTERO,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_I_OTERO.pdf
+LLB,EUROPEAN UNION LAW LESKINEN,https://docs.ie.edu/university/Grados/LLB/2025/EUROPEAN_UNION_LAW_LESKINEN.pdf
+LLB,HUMAN RIGHTS VERDUGO,https://docs.ie.edu/university/Grados/LLB/2025/HUMAN_RIGHTS_VERDUGO.pdf
+LLB,TORTS BERMEJO,https://docs.ie.edu/university/Grados/LLB/2025/TORTS_BERMEJO.pdf
+LLB,LEGAL SKILLS TRANSACTIONS DAROCA,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_SKILLS_TRANSACTIONS_DAROCA.pdf
+LLB,LITIGATION I DE BENITO,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_I_DE_BENITO.pdf
+LLB,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
+LLB,TAXATION I LEIS,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_I_LEIS.pdf
+LLB,LABOUR LAW II CIFUENTES,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_II_CIFUENTES.pdf
+LLB,COMMERCIAL LAW I FERNANDEZ BENITO,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_I_FERNANDEZ_BENITO.pdf
+LLB,LITIGATION II PINEROS,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_II_PINEROS.pdf
+LLB,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
+LLB,CONFLICTS  BUSINESS LAW SANCHEZ,https://docs.ie.edu/university/Grados/LLB/2025/CONFLICTS__BUSINESS_LAW_SANCHEZ.pdf
+LLB,TAXATION II ALLEVATO,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_II-ALLEVATO.pdf
+LLB,UNPLUGGED V MORALES,https://docs.ie.edu/university/Grados/LLB/2025/UNPLUGGED_V_MORALES.pdf
+LLB,COMMERCIAL LAW II REIG,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_II_REIG.pdf
+LLB,FAMILY STATE  TRUST CORTES,https://docs.ie.edu/university/Grados/LLB/2025/FAMILY_STATE__TRUST_CORTES.pdf
+LLB,Optativas 2,https://docs.ie.edu/university/Grados/LLB/2025/Optativas_2.pdf
+LLB,OPTATIVAS 1,https://docs.ie.edu/university/Grados/LLB/2025/OPTATIVAS_1.pdf
+LLB,Law Final Project,https://docs.ie.edu/university/Grados/LLB/2025/Law_Final_Project.pdf
+bachelor-philosophy-politics-law-economics-pple,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+bachelor-philosophy-politics-law-economics-pple,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+bachelor-philosophy-politics-law-economics-pple,MATHEMATICS ALVAREZ,https://docs.ie.edu/university/Grados/PPLE/MATHEMATICS_ALVAREZ.pdf
+bachelor-philosophy-politics-law-economics-pple,EUROPEAN LEGAL HISTORY WAUTERS,https://docs.ie.edu/university/Grados/PPLE/EUROPEAN_LEGAL_HISTORY_WAUTERS.pdf
+bachelor-philosophy-politics-law-economics-pple,INTRO TO POLITICAS SCIENCE ZIDEK,https://docs.ie.edu/university/Grados/PPLE/INTRO_TO_POLITICAS_SCIENCE_ZIDEK.pdf
+bachelor-philosophy-politics-law-economics-pple,RESEARCH METHODS GUJER,https://docs.ie.edu/university/Grados/PPLE/RESEARCH_METHODS_GUJER.pdf
+bachelor-philosophy-politics-law-economics-pple,HISTORY ANCIENT  MEDIEVAL PHILOSOPHY ALONSO,https://docs.ie.edu/university/Grados/PPLE/HISTORY_ANCIENT__MEDIEVAL_PHILOSOPHY_ALONSO.pdf
+bachelor-philosophy-politics-law-economics-pple,INTRO TO LAW SYSTEMS VERDUGO,https://docs.ie.edu/university/Grados/PPLE/INTRO_TO_LAW_SYSTEMS_VERDUGO.pdf
+bachelor-philosophy-politics-law-economics-pple,MICROECONOMICS PENA,https://docs.ie.edu/university/Grados/PPLE/MICROECONOMICS_PENA.pdf
+bachelor-philosophy-politics-law-economics-pple,SOCIAL SEMINAR I GUJER,https://docs.ie.edu/university/Grados/PPLE/SOCIAL_SEMINAR_I_GUJER.pdf
+bachelor-philosophy-politics-law-economics-pple,CONSTITUTIONAL LAW ELKHOURY,https://docs.ie.edu/university/Grados/PPLE/CONSTITUTIONAL_LAW_ELKHOURY.pdf
+bachelor-philosophy-politics-law-economics-pple,GOVERNMENT  COMPARATIVE POLITICS WIESEHOMEIER,https://docs.ie.edu/university/Grados/PPLE/GOVERNMENT__COMPARATIVE_POLITICS_WIESEHOMEIER.pdf
+bachelor-philosophy-politics-law-economics-pple,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
+bachelor-philosophy-politics-law-economics-pple,HISTORY MODERN CONTEMPORARY PHILOSOPHY OBANDO,https://docs.ie.edu/university/Grados/PPLE/HISTORY_MODERN_CONTEMPORARY_PHILOSOPHY_OBANDO.pdf
+bachelor-philosophy-politics-law-economics-pple,PROBABILITY  STATISTICS MESA,https://docs.ie.edu/university/Grados/PPLE/PROBABILITY__STATISTICS_MESA.pdf
+bachelor-philosophy-politics-law-economics-pple,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
+bachelor-philosophy-politics-law-economics-pple,PUBLIC ADMON  MANAGEMENT PUIG SIMON,https://docs.ie.edu/university/Grados/PPLE/PUBLIC_ADMON__MANAGEMENT_PUIG-SIMON.pdf
+bachelor-philosophy-politics-law-economics-pple,MACROECONOMICS YAGUE,https://docs.ie.edu/university/Grados/PPLE/MACROECONOMICS_YAGUE.pdf
+bachelor-philosophy-politics-law-economics-pple,LOGIC  ARGUMENTATION ALHAMBRA,https://docs.ie.edu/university/Grados/PPLE/LOGIC__ARGUMENTATION_ALHAMBRA.pdf
+bachelor-philosophy-politics-law-economics-pple,CONTRACTS DEELIZALDE,https://docs.ie.edu/university/Grados/PPLE/CONTRACTS_DEELIZALDE.pdf
+bachelor-philosophy-politics-law-economics-pple,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
+bachelor-philosophy-politics-law-economics-pple,Social Seminar II 2526,https://docs.ie.edu/university/Grados/PPLE/Social_Seminar_II_2526.pdf
+bachelor-philosophy-politics-law-economics-pple,ECONOMETRICS ALEGRIA,https://docs.ie.edu/university/Grados/PPLE/ECONOMETRICS_ALEGRIA.pdf
+bachelor-philosophy-politics-law-economics-pple,Public Economics 2526,https://docs.ie.edu/university/Grados/PPLE/Public_Economics_2526.pdf
+bachelor-philosophy-politics-law-economics-pple,PUBLIC INTERNATIONAL LAW SALAZAR,https://docs.ie.edu/university/Grados/PPLE/PUBLIC_INTERNATIONAL_LAW_SALAZAR.pdf
+bachelor-philosophy-politics-law-economics-pple,POLITICAL PHILOSOPHY NIETHARDT,https://docs.ie.edu/university/Grados/PPLE/POLITICAL_PHILOSOPHY_NIETHARDT.pdf
+bachelor-philosophy-politics-law-economics-pple,EUROPEAN UNIOS LAW LESKINEN,https://docs.ie.edu/university/Grados/PPLE/EUROPEAN_UNIOS_LAW_LESKINEN.pdf
+bachelor-philosophy-politics-law-economics-pple,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
+bachelor-philosophy-politics-law-economics-pple,GAME THEORY AND INDUSTRIAL ORGANIZATION KONSTANTINIDIS,https://docs.ie.edu/university/Grados/PPLE/GAME_THEORY_AND_INDUSTRIAL_ORGANIZATION_KONSTANTINIDIS.pdf
+bachelor-philosophy-politics-law-economics-pple,PUBLIC POLICY ANALYSIS PIQUER,https://docs.ie.edu/university/Grados/PPLE/PUBLIC_POLICY_ANALYSIS_PIQUER.pdf
+bachelor-philosophy-politics-law-economics-pple,Legal Philosophy 2526,https://docs.ie.edu/university/Grados/PPLE/Legal_Philosophy_2526.pdf
+bachelor-philosophy-politics-law-economics-pple,SOCIAL SEMINAR III MONFORT,https://docs.ie.edu/university/Grados/PPLE/SOCIAL_SEMINAR_III_MONFORT.pdf
+bachelor-philosophy-politics-law-economics-pple,MONETARY ECONOMICS,https://docs.ie.edu/university/Grados/PPLE/MONETARY_ECONOMICS.pdf
+bachelor-philosophy-politics-law-economics-pple,INTERNATIONAL TRADE LAW CUEVAS,https://docs.ie.edu/university/Grados/PPLE/INTERNATIONAL_TRADE_LAW_CUEVAS.pdf
+bachelor-philosophy-politics-law-economics-pple,Electivos,https://docs.ie.edu/university/Grados/PPLE/Electivos.pdf
+bachelor-philosophy-politics-law-economics-pple,Law Final Project,https://docs.ie.edu/university/Grados/PPLE/Law_Final_Project.pdf
+BPS,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BPS,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BPS,bps 24jul final,https://files.thesaurus.ie.edu/bps-24jul-final.pdf
+BBA,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BBA,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BBA,financial accounting(1),https://files.thesaurus.ie.edu/financial-accounting(1).pdf
+BBA,marketing fundamentals(1),https://files.thesaurus.ie.edu/marketing-fundamentals(1).pdf
+BBA,applied business mathematics(1),https://files.thesaurus.ie.edu/applied-business-mathematics(1).pdf
+BBA,research and academic writing skills,https://files.thesaurus.ie.edu/research-and-academic-writing-skills.pdf
+BBA,management tools and principles(1),https://files.thesaurus.ie.edu/management-tools-and-principles(1).pdf
+BBA,microeconomics 2,https://files.thesaurus.ie.edu/microeconomics_2.pdf
+BBA,cost accounting,https://files.thesaurus.ie.edu/cost-accounting.pdf
+BBA,humanities 23 24(1),https://files.thesaurus.ie.edu/humanities-23-24(1).pdf
+BBA,building powerful relationships,https://files.thesaurus.ie.edu/building-powerful-relationships.pdf
+BBA,mathematics for management,https://files.thesaurus.ie.edu/mathematics-for-management.pdf
+BBA,introduction to programming,https://files.thesaurus.ie.edu/introduction-to-programming.pdf
+BBA,macroeconomics(4),https://files.thesaurus.ie.edu/macroeconomics(4).pdf
+BBA,statistics data analysis,https://files.thesaurus.ie.edu/statistics-data-analysis.pdf
+BBA,business driven information techonlogies,https://files.thesaurus.ie.edu/business-driven-information-techonlogies.pdf
+BBA,corporate finance,https://files.thesaurus.ie.edu/corporate-finance.pdf
+BBA,technology(10),https://files.thesaurus.ie.edu/technology(10).pdf
+BBA,marketing management,https://files.thesaurus.ie.edu/marketing-management.pdf
+BBA,global economic environment 1,https://files.thesaurus.ie.edu/global-economic-environment_1.pdf
+BBA,financial reporting analysis,https://files.thesaurus.ie.edu/financial-reporting-analysis.pdf
+BBA,capital markets 3,https://files.thesaurus.ie.edu/capital-markets_3.pdf
+BBA,organizational behavior,https://files.thesaurus.ie.edu/organizational-behavior.pdf
+BBA,marketing in action,https://files.thesaurus.ie.edu/marketing-in-action.pdf
+BBA,ie impact entrepreneurship 1,https://files.thesaurus.ie.edu/ie-impact-entrepreneurship_1.pdf
+BBA,operations management 1,https://files.thesaurus.ie.edu/operations-management_1.pdf
+BBA,management control(1),https://files.thesaurus.ie.edu/management-control(1).pdf
+BBA,human capital management,https://files.thesaurus.ie.edu/human-capital-management.pdf
+BBA,supply chain management(1),https://files.thesaurus.ie.edu/supply-chain-management(1).pdf
+BBA,strategies for competing in industries and markets(2),https://files.thesaurus.ie.edu/strategies-for-competing-in-industries-and-markets(2).pdf
+BBA,data analysis for economics,https://files.thesaurus.ie.edu/data-analysis-for-economics.pdf
+BBA,ie challenge 7,https://files.thesaurus.ie.edu/ie-challenge_7.pdf
+BBA,electives 1(5),https://files.thesaurus.ie.edu/electives-1(5).pdf
+BBA,electives41,https://files.thesaurus.ie.edu/electives41.pdf
+BBA,electives42,https://files.thesaurus.ie.edu/electives42.pdf
+BBA,strategies in a disruptive world,https://files.thesaurus.ie.edu/strategies-in-a-disruptive-world.pdf
+BBA,strategies for the multinational corporation,https://files.thesaurus.ie.edu/strategies-for-the-multinational-corporation.pdf
+BBA,business law alberto mata 1,https://files.thesaurus.ie.edu/business-law-alberto-mata-1.pdf
+BBA,final project,https://files.thesaurus.ie.edu/final-project.pdf
+BBA,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BBA,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BBA,financial accounting(1),https://files.thesaurus.ie.edu/financial-accounting(1).pdf
+BBA,marketing fundamentals(1),https://files.thesaurus.ie.edu/marketing-fundamentals(1).pdf
+BBA,applied business mathematics(1),https://files.thesaurus.ie.edu/applied-business-mathematics(1).pdf
+BBA,research and academic writing skills,https://files.thesaurus.ie.edu/research-and-academic-writing-skills.pdf
+BBA,management tools and principles(1),https://files.thesaurus.ie.edu/management-tools-and-principles(1).pdf
+BBA,microeconomics 2,https://files.thesaurus.ie.edu/microeconomics_2.pdf
+BBA,cost accounting,https://files.thesaurus.ie.edu/cost-accounting.pdf
+BBA,humanities 23 24(1),https://files.thesaurus.ie.edu/humanities-23-24(1).pdf
+BBA,building powerful relationships,https://files.thesaurus.ie.edu/building-powerful-relationships.pdf
+BBA,mathematics for management,https://files.thesaurus.ie.edu/mathematics-for-management.pdf
+BBA,Mathematics for Management,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Mathematics_for_Management_.pdf
+BBA,macroeconomics(4),https://files.thesaurus.ie.edu/macroeconomics(4).pdf
+BBA,statistics data analysis,https://files.thesaurus.ie.edu/statistics-data-analysis.pdf
+BBA,business driven information techonlogies,https://files.thesaurus.ie.edu/business-driven-information-techonlogies.pdf
+BBA,corporate finance,https://files.thesaurus.ie.edu/corporate-finance.pdf
+BBA,technology(10),https://files.thesaurus.ie.edu/technology(10).pdf
+BBA,marketing management,https://files.thesaurus.ie.edu/marketing-management.pdf
+BBA,global economic environment 1,https://files.thesaurus.ie.edu/global-economic-environment_1.pdf
+BBA,financial reporting analysis,https://files.thesaurus.ie.edu/financial-reporting-analysis.pdf
+BBA,capital markets 3,https://files.thesaurus.ie.edu/capital-markets_3.pdf
+BBA,organizational behavior,https://files.thesaurus.ie.edu/organizational-behavior.pdf
+BBA,marketing in action,https://files.thesaurus.ie.edu/marketing-in-action.pdf
+BBA,ie impact entrepreneurship 1,https://files.thesaurus.ie.edu/ie-impact-entrepreneurship_1.pdf
+BBA,operations management 1,https://files.thesaurus.ie.edu/operations-management_1.pdf
+BBA,management control(1),https://files.thesaurus.ie.edu/management-control(1).pdf
+BBA,human capital management,https://files.thesaurus.ie.edu/human-capital-management.pdf
+BBA,supply chain management(1),https://files.thesaurus.ie.edu/supply-chain-management(1).pdf
+BBA,strategies for competing in industries and markets(2),https://files.thesaurus.ie.edu/strategies-for-competing-in-industries-and-markets(2).pdf
+BBA,data analysis for economics,https://files.thesaurus.ie.edu/data-analysis-for-economics.pdf
+BBA,ie challenge 7,https://files.thesaurus.ie.edu/ie-challenge_7.pdf
+BBA,electives 1(5),https://files.thesaurus.ie.edu/electives-1(5).pdf
+BBA,electives41,https://files.thesaurus.ie.edu/electives41.pdf
+BBA,electives42,https://files.thesaurus.ie.edu/electives42.pdf
+BBA,strategies in a disruptive world,https://files.thesaurus.ie.edu/strategies-in-a-disruptive-world.pdf
+BBA,strategies for the multinational corporation,https://files.thesaurus.ie.edu/strategies-for-the-multinational-corporation.pdf
+BBA,business law alberto mata 1,https://files.thesaurus.ie.edu/business-law-alberto-mata-1.pdf
+BBA,Final Project,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Final_Project.pdf
+dual-degree-in-business-administration-data-and-business-analytics,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-in-business-administration-data-and-business-analytics,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-business-administration-data-and-business-analytics,learning to observe experiment and survey(7),https://files.thesaurus.ie.edu/learning-to-observe-experiment-and-survey(7).pdf
+dual-degree-in-business-administration-data-and-business-analytics,fundamentals of probability and statistics(9),https://files.thesaurus.ie.edu/fundamentals-of-probability-and-statistics(9).pdf
+dual-degree-in-business-administration-data-and-business-analytics,introduction to programming for data science,https://files.thesaurus.ie.edu/introduction-to-programming-for-data-science.pdf
+dual-degree-in-business-administration-data-and-business-analytics,financial accounting2,https://files.thesaurus.ie.edu/financial-accounting2.pdf
+dual-degree-in-business-administration-data-and-business-analytics,marketing fundamentals 1,https://files.thesaurus.ie.edu/marketing-fundamentals_1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,applied business mathematics2,https://files.thesaurus.ie.edu/applied-business-mathematics2.pdf
+dual-degree-in-business-administration-data-and-business-analytics,management tools and principles(4),https://files.thesaurus.ie.edu/management-tools-and-principles(4).pdf
+dual-degree-in-business-administration-data-and-business-analytics,data insights and visualization(7),https://files.thesaurus.ie.edu/data-insights-and-visualization(7).pdf
+dual-degree-in-business-administration-data-and-business-analytics,fundamentals of data analysis(7),https://files.thesaurus.ie.edu/fundamentals-of-data-analysis(7).pdf
+dual-degree-in-business-administration-data-and-business-analytics,humanities 4,https://files.thesaurus.ie.edu/humanities_4.pdf
+dual-degree-in-business-administration-data-and-business-analytics,cost accounting(1),https://files.thesaurus.ie.edu/cost-accounting(1).pdf
+dual-degree-in-business-administration-data-and-business-analytics,corporate finance 3,https://files.thesaurus.ie.edu/corporate-finance_3.pdf
+dual-degree-in-business-administration-data-and-business-analytics,computational thinking for dma 1,https://files.thesaurus.ie.edu/computational-thinking-for-dma_1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,microeconomics(7),https://files.thesaurus.ie.edu/microeconomics(7).pdf
+dual-degree-in-business-administration-data-and-business-analytics,probability and statistics for dma 1,https://files.thesaurus.ie.edu/probability-and-statistics-for-dma-1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,mathematics for dma,https://files.thesaurus.ie.edu/mathematics-for-dma.pdf
+dual-degree-in-business-administration-data-and-business-analytics,algorithms data structures 1,https://files.thesaurus.ie.edu/algorithms-data-structures_1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,programming for dma,https://files.thesaurus.ie.edu/programming-for-dma.pdf
+dual-degree-in-business-administration-data-and-business-analytics,tech 2,https://files.thesaurus.ie.edu/tech_2.pdf
+dual-degree-in-business-administration-data-and-business-analytics,marketing management 4,https://files.thesaurus.ie.edu/marketing-management_4.pdf
+dual-degree-in-business-administration-data-and-business-analytics,building powerful relationships(2),https://files.thesaurus.ie.edu/building-powerful-relationships(2).pdf
+dual-degree-in-business-administration-data-and-business-analytics,advanced data structures and storage(2),https://files.thesaurus.ie.edu/advanced-data-structures-and-storage(2).pdf
+dual-degree-in-business-administration-data-and-business-analytics,communication skills(2),https://files.thesaurus.ie.edu/communication-skills(2).pdf
+dual-degree-in-business-administration-data-and-business-analytics,ie impact entrepreneurship 3,https://files.thesaurus.ie.edu/ie-impact-entrepreneurship_3.pdf
+dual-degree-in-business-administration-data-and-business-analytics,research and academic writing skills1,https://files.thesaurus.ie.edu/research-and-academic-writing-skills1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,capital markets 2,https://files.thesaurus.ie.edu/capital-markets_2.pdf
+dual-degree-in-business-administration-data-and-business-analytics,marketing in action(1),https://files.thesaurus.ie.edu/marketing-in-action(1).pdf
+dual-degree-in-business-administration-data-and-business-analytics,financial reporting and analysis,https://files.thesaurus.ie.edu/financial-reporting-and-analysis.pdf
+dual-degree-in-business-administration-data-and-business-analytics,business driven information technologies,https://files.thesaurus.ie.edu/business-driven-information-technologies.pdf
+dual-degree-in-business-administration-data-and-business-analytics,ai machine learning analytics 1,https://files.thesaurus.ie.edu/ai-machine-learning-analytics_1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,operating systems parallel computing(2),https://files.thesaurus.ie.edu/operating-systems-parallel-computing(2).pdf
+dual-degree-in-business-administration-data-and-business-analytics,time series analysis(5),https://files.thesaurus.ie.edu/time-series-analysis(5).pdf
+dual-degree-in-business-administration-data-and-business-analytics,macroeconomics(10),https://files.thesaurus.ie.edu/macroeconomics(10).pdf
+dual-degree-in-business-administration-data-and-business-analytics,organizational behavior 2,https://files.thesaurus.ie.edu/organizational-behavior_2.pdf
+dual-degree-in-business-administration-data-and-business-analytics,management control2,https://files.thesaurus.ie.edu/management-control2.pdf
+dual-degree-in-business-administration-data-and-business-analytics,strategies for competing in industries and markets(6),https://files.thesaurus.ie.edu/strategies-for-competing-in-industries-and-markets(6).pdf
+dual-degree-in-business-administration-data-and-business-analytics,operations management(2),https://files.thesaurus.ie.edu/operations-management(2).pdf
+dual-degree-in-business-administration-data-and-business-analytics,analyzing social media(5),https://files.thesaurus.ie.edu/analyzing-social-media(5).pdf
+dual-degree-in-business-administration-data-and-business-analytics,big data technology 1,https://files.thesaurus.ie.edu/big-data-technology_1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,advanced databases(1),https://files.thesaurus.ie.edu/advanced-databases(1).pdf
+dual-degree-in-business-administration-data-and-business-analytics,introduction to business and social analytics(3),https://files.thesaurus.ie.edu/introduction-to-business-and-social-analytics(3).pdf
+dual-degree-in-business-administration-data-and-business-analytics,forecasting for time series(5),https://files.thesaurus.ie.edu/forecasting-for-time-series(5).pdf
+dual-degree-in-business-administration-data-and-business-analytics,human capital management(2),https://files.thesaurus.ie.edu/human-capital-management(2).pdf
+dual-degree-in-business-administration-data-and-business-analytics,electives bbabda,https://files.thesaurus.ie.edu/electives-bbabda.pdf
+dual-degree-in-business-administration-data-and-business-analytics,simulating and modeling tuc,https://files.thesaurus.ie.edu/simulating-and-modeling-tuc.pdf
+dual-degree-in-business-administration-data-and-business-analytics,recommendation engines(5),https://files.thesaurus.ie.edu/recommendation-engines(5).pdf
+dual-degree-in-business-administration-data-and-business-analytics,nlp text mining and semantic analysis(5),https://files.thesaurus.ie.edu/nlp-text-mining-and-semantic-analysis(5).pdf
+dual-degree-in-business-administration-data-and-business-analytics,streamanalytics,https://files.thesaurus.ie.edu/streamanalytics.pdf
+dual-degree-in-business-administration-data-and-business-analytics,data visualization dashborads storytelling 1,https://files.thesaurus.ie.edu/data-visualization-dashborads-storytelling-1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,global economic environment(4),https://files.thesaurus.ie.edu/global-economic-environment(4).pdf
+dual-degree-in-business-administration-data-and-business-analytics,strategies for competing in industries and markets3(1),https://files.thesaurus.ie.edu/strategies-for-competing-in-industries-and-markets3(1).pdf
+dual-degree-in-business-administration-data-and-business-analytics,designing artificial intelligence implementing smart technologies,https://files.thesaurus.ie.edu/designing-artificial-intelligence-implementing-smart-technologies.pdf
+dual-degree-in-business-administration-data-and-business-analytics,advanced topic connected industries smart cities egovernments(3),https://files.thesaurus.ie.edu/advanced-topic-connected-industries-smart-cities-egovernments(3).pdf
+dual-degree-in-business-administration-data-and-business-analytics,customer analytics(5),https://files.thesaurus.ie.edu/customer-analytics(5).pdf
+dual-degree-in-business-administration-data-and-business-analytics,data governance(5),https://files.thesaurus.ie.edu/data-governance(5).pdf
+dual-degree-in-business-administration-data-and-business-analytics,ie challenge(19),https://files.thesaurus.ie.edu/ie-challenge(19).pdf
+dual-degree-in-business-administration-data-and-business-analytics,supply chain management2(1),https://files.thesaurus.ie.edu/supply-chain-management2(1).pdf
+dual-degree-in-business-administration-data-and-business-analytics,business law3(1),https://files.thesaurus.ie.edu/business-law3(1).pdf
+dual-degree-in-business-administration-data-and-business-analytics,strategies for competing in industries and markets3(3),https://files.thesaurus.ie.edu/strategies-for-competing-in-industries-and-markets3(3).pdf
+dual-degree-in-business-administration-data-and-business-analytics,advanced topic financial analytics(4),https://files.thesaurus.ie.edu/advanced-topic-financial-analytics(4).pdf
+dual-degree-in-business-administration-data-and-business-analytics,emerging topics in data analysis management(4),https://files.thesaurus.ie.edu/emerging-topics-in-data-analysis-management(4).pdf
+dual-degree-in-business-administration-data-and-business-analytics,capstone project 1,https://files.thesaurus.ie.edu/capstone-project-1.pdf
+dual-degree-in-business-administration-data-and-business-analytics,final project business model,https://files.thesaurus.ie.edu/final-project-business-model.pdf
+dual-degree-in-business-administration-design,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-in-business-administration-design,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-business-administration-design,introduction to design studio i learning by doing,https://files.thesaurus.ie.edu/introduction-to-design-studio-i-learning-by-doing.pdf
+dual-degree-in-business-administration-design,design history i,https://files.thesaurus.ie.edu/design-history-i.pdf
+dual-degree-in-business-administration-design,design skills,https://files.thesaurus.ie.edu/design-skills.pdf
+dual-degree-in-business-administration-design,writing skills 2,https://files.thesaurus.ie.edu/writing-skills_2.pdf
+dual-degree-in-business-administration-design,financial accounting,https://files.thesaurus.ie.edu/financial-accounting.pdf
+dual-degree-in-business-administration-design,management tools principles,https://files.thesaurus.ie.edu/management-tools-principles.pdf
+dual-degree-in-business-administration-design,applied business mathematics,https://files.thesaurus.ie.edu/applied-business-mathematics.pdf
+dual-degree-in-business-administration-design,introduction to design studio ii,https://files.thesaurus.ie.edu/introduction-to-design-studio-ii.pdf
+dual-degree-in-business-administration-design,design history ii,https://files.thesaurus.ie.edu/design-history-ii.pdf
+dual-degree-in-business-administration-design,visualization and representation techniques,https://files.thesaurus.ie.edu/visualization-and-representation-techniques.pdf
+dual-degree-in-business-administration-design,building powerful relationships 1,https://files.thesaurus.ie.edu/building-powerful-relationships_1.pdf
+dual-degree-in-business-administration-design,cost accounting 1,https://files.thesaurus.ie.edu/cost-accounting_1.pdf
+dual-degree-in-business-administration-design,mathematics for management 1,https://files.thesaurus.ie.edu/mathematics-for-management_1.pdf
+dual-degree-in-business-administration-design,corporate finance 2,https://files.thesaurus.ie.edu/corporate-finance_2.pdf
+dual-degree-in-business-administration-design,design studio i,https://files.thesaurus.ie.edu/design-studio-i.pdf
+dual-degree-in-business-administration-design,psychology and user center design,https://files.thesaurus.ie.edu/psychology-and-user-center-design.pdf
+dual-degree-in-business-administration-design,capital markets 1,https://files.thesaurus.ie.edu/capital-markets_1.pdf
+dual-degree-in-business-administration-design,marketing fundamentals,https://files.thesaurus.ie.edu/marketing-fundamentals.pdf
+dual-degree-in-business-administration-design,microeconomics 3,https://files.thesaurus.ie.edu/microeconomics_3.pdf
+dual-degree-in-business-administration-design,financial reporting analysis 1,https://files.thesaurus.ie.edu/financial-reporting-analysis_1.pdf
+dual-degree-in-business-administration-design,design studio ii,https://files.thesaurus.ie.edu/design-studio-ii.pdf
+dual-degree-in-business-administration-design,materials and applications i,https://files.thesaurus.ie.edu/materials-and-applications-i.pdf
+dual-degree-in-business-administration-design,design and criticism,https://files.thesaurus.ie.edu/design-and-criticism.pdf
+dual-degree-in-business-administration-design,macroeconomics 3,https://files.thesaurus.ie.edu/macroeconomics_3.pdf
+dual-degree-in-business-administration-design,humanities 3,https://files.thesaurus.ie.edu/humanities_3.pdf
+dual-degree-in-business-administration-design,design methodologies,https://files.thesaurus.ie.edu/design-methodologies.pdf
+dual-degree-in-business-administration-design,introduction to programming 1,https://files.thesaurus.ie.edu/introduction-to-programming_1.pdf
+dual-degree-in-business-administration-design,design studio iii,https://files.thesaurus.ie.edu/design-studio-iii.pdf
+dual-degree-in-business-administration-design,materials and applications ii,https://files.thesaurus.ie.edu/materials-and-applications-ii.pdf
+dual-degree-in-business-administration-design,research techniques,https://files.thesaurus.ie.edu/research-techniques.pdf
+dual-degree-in-business-administration-design,tech,https://files.thesaurus.ie.edu/tech.pdf
+dual-degree-in-business-administration-design,tech 1,https://files.thesaurus.ie.edu/tech_1.pdf
+dual-degree-in-business-administration-design,sustainability,https://files.thesaurus.ie.edu/sustainability.pdf
+dual-degree-in-business-administration-design,statistics data analysis 1,https://files.thesaurus.ie.edu/statistics-data-analysis_1.pdf
+dual-degree-in-business-administration-design,typography layout presentation,https://files.thesaurus.ie.edu/typography-layout-presentation.pdf
+dual-degree-in-business-administration-design,interactive and digital tools,https://files.thesaurus.ie.edu/interactive-and-digital-tools.pdf
+dual-degree-in-business-administration-design,marketing in action 5,https://files.thesaurus.ie.edu/marketing-in-action_5.pdf
+dual-degree-in-business-administration-design,data analysis for economics 1,https://files.thesaurus.ie.edu/data-analysis-for-economics_1.pdf
+dual-degree-in-business-administration-design,strategies for competing in industries and markets,https://files.thesaurus.ie.edu/strategies-for-competing-in-industries-and-markets.pdf
+dual-degree-in-business-administration-design,ie impact entrepreneurship 2,https://files.thesaurus.ie.edu/ie-impact-entrepreneurship_2.pdf
+dual-degree-in-business-administration-design,global economic environment 2,https://files.thesaurus.ie.edu/global-economic-environment_2.pdf
+dual-degree-in-business-administration-design,electivos,https://files.thesaurus.ie.edu/electivos.pdf
+dual-degree-in-business-administration-design,management control,https://files.thesaurus.ie.edu/management-control.pdf
+dual-degree-in-business-administration-design,ethnography,https://files.thesaurus.ie.edu/ethnography.pdf
+dual-degree-in-business-administration-design,contemporary design trends,https://files.thesaurus.ie.edu/contemporary-design-trends.pdf
+dual-degree-in-business-administration-design,processes and design theory,https://files.thesaurus.ie.edu/processes-and-design-theory.pdf
+dual-degree-in-business-administration-design,fabrication technologies,https://files.thesaurus.ie.edu/fabrication-technologies.pdf
+dual-degree-in-business-administration-design,business driven information,https://files.thesaurus.ie.edu/business-driven-information.pdf
+dual-degree-in-business-administration-design,organizational behavior 1,https://files.thesaurus.ie.edu/organizational-behavior_1.pdf
+dual-degree-in-business-administration-design,operations management 2,https://files.thesaurus.ie.edu/operations-management_2.pdf
+dual-degree-in-business-administration-design,programming for designers,https://files.thesaurus.ie.edu/programming-for-designers.pdf
+dual-degree-in-business-administration-design,business law alberto mata 1,https://files.thesaurus.ie.edu/business-law-alberto-mata-1.pdf
+dual-degree-in-business-administration-design,design studio iv,https://files.thesaurus.ie.edu/design-studio-iv.pdf
+dual-degree-in-business-administration-design,design management,https://files.thesaurus.ie.edu/design-management.pdf
+dual-degree-in-business-administration-design,human capital management 1,https://files.thesaurus.ie.edu/human-capital-management_1.pdf
+dual-degree-in-business-administration-design,supply chain management,https://files.thesaurus.ie.edu/supply-chain-management.pdf
+dual-degree-in-business-administration-design,strategies for the multinational corporation 1,https://files.thesaurus.ie.edu/strategies-for-the-multinational-corporation_1.pdf
+dual-degree-in-business-administration-design,ie challenge 5,https://files.thesaurus.ie.edu/ie-challenge_5.pdf
+dual-degree-in-business-administration-design,portfolio design,https://files.thesaurus.ie.edu/portfolio-design.pdf
+dual-degree-in-business-administration-design,undergraduate thesis,https://files.thesaurus.ie.edu/undergraduate-thesis.pdf
+dual-degree-in-business-administration-design,strategies in disruptive world,https://files.thesaurus.ie.edu/strategies-in-disruptive-world.pdf
+dual-degree-in-business-administration-design,tfg bba,https://files.thesaurus.ie.edu/tfg-bba.pdf
+dual-degree-in-business-administration-design,design narratives,https://files.thesaurus.ie.edu/design-narratives.pdf
+dual-degree-in-business-administration-fashion-design,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-in-business-administration-fashion-design,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,MANAGEMENT TOOLS AND PRINCIPLES,https://docs.ie.edu/university/Grados/BHUM/MANAGEMENT_TOOLS_AND_PRINCIPLES.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,APPLIED BUSINESS MATHEMATICS,https://docs.ie.edu/university/Grados/BHUM/APPLIED_BUSINESS_MATHEMATICS.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,GLOBAL HISTORY I,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_I.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,PHILOSOPHICAL QUESTIONS %26 METHODS,https://docs.ie.edu/university/Grados/BHUM/PHILOSOPHICAL_QUESTIONS_%26_METHODS.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,RESEARCH ACADEMIC WRITING SKILLS,https://docs.ie.edu/university/Grados/BHUM/RESEARCH_ACADEMIC_WRITING_SKILLS.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,DIGITAL HUMANITIES,https://docs.ie.edu/university/Grados/BHUM/DIGITAL_HUMANITIES.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,FINANCIAL ACCOUNTING,https://docs.ie.edu/university/Grados/BHUM/FINANCIAL_ACCOUNTING.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,MATHEMATICS FOR MANAGEMENT,https://docs.ie.edu/university/Grados/BHUM/MATHEMATICS_FOR_MANAGEMENT.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,MICROECONOMICS,https://docs.ie.edu/university/Grados/BHUM/MICROECONOMICS.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,GLOBAL HISTORY II,https://docs.ie.edu/university/Grados/BHUM/GLOBAL_HISTORY_II.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,FOUNDATIONS OF SOCIAL THEORY,https://docs.ie.edu/university/Grados/BHUM/FOUNDATIONS_OF_SOCIAL_THEORY.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,LOGIC AND ALGORITHMIC THINKING,https://docs.ie.edu/university/Grados/BHUM/LOGIC_AND_ALGORITHMIC_THINKING.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,Humanities,https://docs.ie.edu/university/Grados/BBA_REACREDITACION/Humanities.pdf
+dual-degree-in-business-administration-bachelor-in-humanities,IEU BBA BHUM Infographic,https://static.ie.edu/marketing/web/IEU/IEU_BBA-BHUM_Infographic.pdf
+dual-degree-business-administration-international-relations,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-business-administration-international-relations,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-business-administration-international-relations,intro to political science,https://files.thesaurus.ie.edu/intro-to-political-science.pdf
+dual-degree-business-administration-international-relations,history of ir up to 1945,https://files.thesaurus.ie.edu/history-of-ir-up-to-1945.pdf
+dual-degree-business-administration-international-relations,applied business mathematics 4,https://files.thesaurus.ie.edu/applied-business-mathematics_4.pdf
+dual-degree-business-administration-international-relations,management tools and principles 2,https://files.thesaurus.ie.edu/management-tools-and-principles_2.pdf
+dual-degree-business-administration-international-relations,financial accounting 1,https://files.thesaurus.ie.edu/financial-accounting-1.pdf
+dual-degree-business-administration-international-relations,microeconomics 1,https://files.thesaurus.ie.edu/microeconomics-1.pdf
+dual-degree-business-administration-international-relations,bir languages ni 1,https://files.thesaurus.ie.edu/bir-languages-ni_1.pdf
+dual-degree-business-administration-international-relations,history of ir since 1945,https://files.thesaurus.ie.edu/history-of-ir-since-1945.pdf
+dual-degree-business-administration-international-relations,political theory,https://files.thesaurus.ie.edu/political-theory.pdf
+dual-degree-business-administration-international-relations,SyllabusIRSkills I,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-I.pdf
+dual-degree-business-administration-international-relations,SyllabusIRSkills II,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-II.pdf
+dual-degree-business-administration-international-relations,introduction to programming 2,https://files.thesaurus.ie.edu/introduction-to-programming_2.pdf
+dual-degree-business-administration-international-relations,marketing fundamentals 3,https://files.thesaurus.ie.edu/marketing-fundamentals_3.pdf
+dual-degree-business-administration-international-relations,mathematics for management 2,https://files.thesaurus.ie.edu/mathematics-for-management_2.pdf
+dual-degree-business-administration-international-relations,bir languages ni 2,https://files.thesaurus.ie.edu/bir-languages-ni_2.pdf
+dual-degree-business-administration-international-relations,humanities 7,https://files.thesaurus.ie.edu/humanities_7.pdf
+dual-degree-business-administration-international-relations,ir theory,https://files.thesaurus.ie.edu/ir-theory.pdf
+dual-degree-business-administration-international-relations,cost accounting 4,https://files.thesaurus.ie.edu/cost-accounting_4.pdf
+dual-degree-business-administration-international-relations,research and academic writing skills 2,https://files.thesaurus.ie.edu/research-and-academic-writing-skills_2.pdf
+dual-degree-business-administration-international-relations,marketing management 2,https://files.thesaurus.ie.edu/marketing-management_2.pdf
+dual-degree-business-administration-international-relations,macroeconomics 6,https://files.thesaurus.ie.edu/macroeconomics_6.pdf
+dual-degree-business-administration-international-relations,tech 4,https://files.thesaurus.ie.edu/tech_4.pdf
+dual-degree-business-administration-international-relations,SyllabusIRSkills III,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-III.pdf
+dual-degree-business-administration-international-relations,SyllabusIRSkills IV,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-IV.pdf
+dual-degree-business-administration-international-relations,human rights amaya ubeda 1,https://files.thesaurus.ie.edu/human-rights-amaya-ubeda-1.pdf
+dual-degree-business-administration-international-relations,statistics and data analysis 2,https://files.thesaurus.ie.edu/statistics-and-data-analysis_2.pdf
+dual-degree-business-administration-international-relations,global economic environment 5,https://files.thesaurus.ie.edu/global-economic-environment_5.pdf
+dual-degree-business-administration-international-relations,business driven information technologies 2,https://files.thesaurus.ie.edu/business-driven-information-technologies_2.pdf
+dual-degree-business-administration-international-relations,marketing in action 3,https://files.thesaurus.ie.edu/marketing-in-action_3.pdf
+dual-degree-business-administration-international-relations,ie impact entrepreneurship 6,https://files.thesaurus.ie.edu/ie-impact-entrepreneurship_6.pdf
+dual-degree-business-administration-international-relations,comparative politics,https://files.thesaurus.ie.edu/comparative-politics.pdf
+dual-degree-business-administration-international-relations,aid development and social entrepreneurship,https://files.thesaurus.ie.edu/aid-development-and-social-entrepreneurship.pdf
+dual-degree-business-administration-international-relations,ie challenge 9,https://files.thesaurus.ie.edu/ie-challenge_9.pdf
+dual-degree-business-administration-international-relations,corporate finance 5,https://files.thesaurus.ie.edu/corporate-finance_5.pdf
+dual-degree-business-administration-international-relations,financial reporting and analysis 2,https://files.thesaurus.ie.edu/financial-reporting-and-analysis_2.pdf
+dual-degree-business-administration-international-relations,building powerful relationships 3,https://files.thesaurus.ie.edu/building-powerful-relationships_3.pdf
+dual-degree-business-administration-international-relations,topics in foreign policy,https://files.thesaurus.ie.edu/topics-in-foreign-policy.pdf
+dual-degree-business-administration-international-relations,public opinion and political communication,https://files.thesaurus.ie.edu/public-opinion-and-political-communication.pdf
+dual-degree-business-administration-international-relations,strategies for competing in industries and markets 2,https://files.thesaurus.ie.edu/strategies-for-competing-in-industries-and-markets_2.pdf
+dual-degree-business-administration-international-relations,organizational behavior 5,https://files.thesaurus.ie.edu/organizational-behavior_5.pdf
+dual-degree-business-administration-international-relations,data analysis for economics 3,https://files.thesaurus.ie.edu/data-analysis-for-economics_3.pdf
+dual-degree-business-administration-international-relations,EUROPEAN UNION JOCHEN MULLER,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/EUROPEAN_UNION_JOCHEN_MULLER.pdf
+dual-degree-business-administration-international-relations,OPERATIONS MANAGEMENT,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/OPERATIONS_MANAGEMENT.pdf
+dual-degree-business-administration-international-relations,electives,https://files.thesaurus.ie.edu/electives.pdf
+dual-degree-business-administration-international-relations,global governance and international institutions,https://files.thesaurus.ie.edu/global-governance-and-international-institutions.pdf
+dual-degree-business-administration-international-relations,business law alberto mata,https://files.thesaurus.ie.edu/business-law-alberto-mata.pdf
+dual-degree-business-administration-international-relations,human capital management maria de carlos,https://files.thesaurus.ie.edu/human-capital-management-maria-de-carlos.pdf
+dual-degree-business-administration-international-relations,climate change and environmental politics,https://files.thesaurus.ie.edu/climate-change-and-environmental-politics.pdf
+dual-degree-business-administration-international-relations,international money and finance miguel otero,https://files.thesaurus.ie.edu/international-money-and-finance-miguel-otero.pdf
+dual-degree-business-administration-international-relations,MANAGEMENT CONTROL,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/MANAGEMENT_CONTROL.pdf
+dual-degree-business-administration-international-relations,SUPPLY CHAIN MANAGEMENT,https://docs.ie.edu/university/Grados/BBABIR_Reacreditacion/SUPPLY_CHAIN_MANAGEMENT.pdf
+dual-degree-business-administration-international-relations,project management,https://files.thesaurus.ie.edu/project-management.pdf
+dual-degree-business-administration-international-relations,peace and conflict resolution,https://files.thesaurus.ie.edu/peace-and-conflict-resolution.pdf
+dual-degree-business-administration-international-relations,strategies for the multinational corporation 4,https://files.thesaurus.ie.edu/strategies-for-the-multinational-corporation_4.pdf
+dual-degree-business-administration-international-relations,strategies in a disruptive world 3,https://files.thesaurus.ie.edu/strategies-in-a-disruptive-world_3.pdf
+dual-degree-business-administration-international-relations,capital markets 5,https://files.thesaurus.ie.edu/capital-markets_5.pdf
+dual-degree-business-administration-international-relations,final project 1,https://files.thesaurus.ie.edu/final-project-1.pdf
+dual-degree-business-administration-international-relations,fp bir,https://files.thesaurus.ie.edu/fp-bir.pdf
+BBA,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BBA,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+BBA,Management Tools,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Management_Tools.pdf
+BBA,Applied Business Maths,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Applied_Business_Maths.pdf
+BBA,EU LEGAL HISTORY LARRAnAGA,https://docs.ie.edu/university/Grados/LLB/2025/EU_LEGAL_HISTORY_LARRAnAGA.pdf
+BBA,CONSTITUTIONAL LAW KOUROUTAKIS,https://docs.ie.edu/university/Grados/LLB/2025/CONSTITUTIONAL_LAW-KOUROUTAKIS.pdf
+BBA,BPR,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/BPR.pdf
+BBA,INTRO PRIVATE LAW CASILDA CORTES,https://docs.ie.edu/university/Grados/LLB/2025/INTRO_PRIVATE_LAW_CASILDA_CORTES.pdf
+BBA,Financial Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Financial_Accounting.pdf
+BBA,Maths Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Maths_Management.pdf
+BBA,LEGAL THOUGHT BAUTERS,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_THOUGHT_BAUTERS.pdf
+BBA,Microeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Microeconomics.pdf
+BBA,ETHICS  VALUES ELENA GARRIGUES,https://docs.ie.edu/university/Grados/LLB/2025/ETHICS__VALUES_ELENA_GARRIGUES.pdf
+BBA,Intro Programming,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Intro_Programming.pdf
+BBA,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
+BBA,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
+BBA,Macroeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Macroeconomics.pdf
+BBA,ADMINISTRATIVE LAW MARTIN ARRIBAS,https://docs.ie.edu/university/Grados/LLB/2025/ADMINISTRATIVE_LAW_MARTIN_ARRIBAS.pdf
+BBA,CONTRACTS MALO,https://docs.ie.edu/university/Grados/LLB/2025/CONTRACTS_MALO.pdf
+BBA,WRITING MARVEL,https://docs.ie.edu/university/Grados/LLB/2025/WRITING_MARVEL.pdf
+BBA,CRIMINAL LAW I PALMIOTTO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_I_PALMIOTTO.pdf
+BBA,Cost Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Cost_Accounting.pdf
+BBA,PUBLIC INTER LAW DELERUE,https://docs.ie.edu/university/Grados/LLB/2025/PUBLIC_INTER_LAW_DELERUE.pdf
+BBA,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
+BBA,BDIT,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/BDIT.pdf
+BBA,PROPERTY ZAMORA,https://docs.ie.edu/university/Grados/LLB/2025/PROPERTY_ZAMORA.pdf
+BBA,TORTS BERMEJO,https://docs.ie.edu/university/Grados/LLB/2025/TORTS_BERMEJO.pdf
+BBA,CRIMINAL LAW II CAPELLO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_II_CAPELLO.pdf
+BBA,COMMERCIAL LAW I FERNANDEZ BENITO,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_I_FERNANDEZ_BENITO.pdf
+BBA,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
+BBA,TAXATION I LEIS,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_I_LEIS.pdf
+BBA,EUROPEAN UNION LAW LESKINEN,https://docs.ie.edu/university/Grados/LLB/2025/EUROPEAN_UNION_LAW_LESKINEN.pdf
+BBA,Financial Reporting Analysis,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Financial_Reporting_Analysis.pdf
+BBA,MARKETING FUNDAMENTALS BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/MARKETING_FUNDAMENTALS_BBA.pdf
+BBA,COMMERCIAL LAW II REIG,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_II_REIG.pdf
+BBA,TAXATION II ALLEVATO,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_II-ALLEVATO.pdf
+BBA,Statistics,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Statistics.pdf
+BBA,Corporate Finance,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Corporate_Finance.pdf
+BBA,HUMAN RIGHTS VERDUGO,https://docs.ie.edu/university/Grados/LLB/2025/HUMAN_RIGHTS_VERDUGO.pdf
+BBA,OPERATIONS MANAGEMENT BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/OPERATIONS_MANAGEMENT_BBA.pdf
+BBA,Marketing Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Marketing_Management.pdf
+BBA,PERSUASION ALMANSA,https://docs.ie.edu/university/Grados/LLB/2025/PERSUASION_ALMANSA.pdf
+BBA,Electives,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Electives.pdf
+BBA,Capital markets BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Capital_markets_BBA.pdf
+BBA,Strategies for Competing in Industries and Markets BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Strategies_for_Competing_in_Industries_and_Markets_BBA.pdf
+BBA,CONFLICTS  BUSINESS LAW SANCHEZ,https://docs.ie.edu/university/Grados/LLB/2025/CONFLICTS__BUSINESS_LAW_SANCHEZ.pdf
+BBA,Marketing in Action BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Marketing_in_Action_BBA.pdf
+BBA,Global Economic Environment BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Global_Economic_Environment_BBA.pdf
+BBA,Data Analysis for Economics BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Data_Analysis_for_Economics_BBA.pdf
+BBA,FAMILY STATE  TRUST CORTES,https://docs.ie.edu/university/Grados/LLB/2025/FAMILY_STATE__TRUST_CORTES.pdf
+BBA,Organizational behavior BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Organizational_behavior_BBA.pdf
+BBA,LABOUR LAW I OTERO,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_I_OTERO.pdf
+BBA,LITIGATION I DE BENITO,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_I_DE_BENITO.pdf
+BBA,Human Capital Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Human_Capital_Management.pdf
+BBA,Strategies Multinational Corporation,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Strategies_Multinational_Corporation.pdf
+BBA,Management Control,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Management_Control.pdf
+BBA,Strategies Disruptive World,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Strategies_Disruptive_World.pdf
+BBA,Supply Chain Management,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/Supply_Chain_Management.pdf
+BBA,LEGAL SKILLS TRANSACTIONS DAROCA,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_SKILLS_TRANSACTIONS_DAROCA.pdf
+BBA,final project BBA,https://docs.ie.edu/university/Grados/DOBLES/BBALLB/final-project_BBA.pdf
+BBA,LABOUR LAW II CIFUENTES,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_II_CIFUENTES.pdf
+BBA,LITIGATION II PINEROS,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_II_PINEROS.pdf
+BBA,Law Final Project,https://docs.ie.edu/university/Grados/LLB/2025/Law_Final_Project.pdf
+BBA,UNPLUGGED V MORALES,https://docs.ie.edu/university/Grados/LLB/2025/UNPLUGGED_V_MORALES.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Financial Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Financial_Accounting.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Management Tools,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Management_Tools.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Discrete Mathematics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Discrete_Mathematics.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Fundamentals of Probability and Statistics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Fundamentals_of_Probability_and_Statistics.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Marketing Fundamentals,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Marketing_Fundamentals.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Research and Academic Writing,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Research_and_Academic_Writing.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,PHYSICS FOR COMPUTER SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PHYSICS_FOR_COMPUTER_SCIENCE.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Cost Accounting,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Cost_Accounting.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Principles of Programming,https://docs.ie.edu/university/Grados/BCSAI/Principles_of_Programming.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Fundamentals of DataAnalysis,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Fundamentals_of_DataAnalysis.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Microeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Microeconomics.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Calculus for Computer Science,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Calculus_for_Computer_Science.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,The Big History of Ideas,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/The_Big_History_of_Ideas.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,COMPUTER PROGRAMMING 1,https://docs.ie.edu/university/Grados/BCSAI/COMPUTER_PROGRAMMING_1.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,CLOUD COMPUTING,https://docs.ie.edu/university/Grados/BCSAI/CLOUD_COMPUTING.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Marketing Management BBA,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Marketing_Management_BBA.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Corporate Finance,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Corporate_Finance.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Macroeconomics,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Macroeconomics.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,SIMULATING AND MODELING TO UNDERSTAND CHANGE,https://docs.ie.edu/university/Grados/BCSAI/SIMULATING_AND_MODELING_TO_UNDERSTAND_CHANGE.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,BPR,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/BPR.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,PROBABILITY FOR COMPUTING SCIENCE,https://docs.ie.edu/university/Grados/BCSAI/PROBABILITY_FOR_COMPUTING_SCIENCE.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,MATRICES  LINEAR TRANSFORMATIONS,https://docs.ie.edu/university/Grados/BCSAI/MATRICES__LINEAR_TRANSFORMATIONS.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Marketing Action BBA,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Marketing_Action_BBA.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,Capital Markets BBA,https://docs.ie.edu/university/Grados/DOBLES/BBABCSIA/Capital_Markets_BBA.pdf
+dual-degree-in-business-administration-computer-science-and-artificial-intelligence,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
+BPS,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+BPS,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-economics-applied-mathematics,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-in-economics-applied-mathematics,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-economics-applied-mathematics,IEU BIEBAM infographic,https://static.ie.edu/marketing/web/IEU/IEU_BIEBAM_infographic.pdf
+dual-degree-in-economics-international-relations,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+dual-degree-in-economics-international-relations,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+dual-degree-in-economics-international-relations,mathematics for economists 2,https://files.thesaurus.ie.edu/mathematics-for-economists_2.pdf
+dual-degree-in-economics-international-relations,foundations of microeconomics,https://files.thesaurus.ie.edu/foundations-of-microeconomics.pdf
+dual-degree-in-economics-international-relations,foundations of macroeconomics 1,https://files.thesaurus.ie.edu/foundations-of-macroeconomics_1.pdf
+dual-degree-in-economics-international-relations,history of ir upto 1945,https://files.thesaurus.ie.edu/history-of-ir-upto-1945.pdf
+dual-degree-in-economics-international-relations,economic history 2,https://files.thesaurus.ie.edu/economic-history_2.pdf
+dual-degree-in-economics-international-relations,bir languages ni 3,https://files.thesaurus.ie.edu/bir-languages-ni_3.pdf
+dual-degree-in-economics-international-relations,programming for economists i 3,https://files.thesaurus.ie.edu/programming-for-economists-i_3.pdf
+dual-degree-in-economics-international-relations,development and growth economics 1,https://files.thesaurus.ie.edu/development-and-growth-economics_1.pdf
+dual-degree-in-economics-international-relations,introduction to political science 3,https://files.thesaurus.ie.edu/introduction-to-political-science_3.pdf
+dual-degree-in-economics-international-relations,political theory 1,https://files.thesaurus.ie.edu/political-theory_1.pdf
+dual-degree-in-economics-international-relations,history of ir since 1945 1,https://files.thesaurus.ie.edu/history-of-ir-since-1945_1.pdf
+dual-degree-in-economics-international-relations,bir languages ni 1,https://files.thesaurus.ie.edu/bir-languages-ni-1.pdf
+dual-degree-in-economics-international-relations,research methods 1,https://files.thesaurus.ie.edu/research-methods-1.pdf
+dual-degree-in-economics-international-relations,probability and statistics 2,https://files.thesaurus.ie.edu/probability-and-statistics_2.pdf
+dual-degree-in-economics-international-relations,SyllabusIRSkills I,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-I.pdf
+dual-degree-in-economics-international-relations,econometrics 3,https://files.thesaurus.ie.edu/econometrics_3.pdf
+dual-degree-in-economics-international-relations,financial economics and accounting 1,https://files.thesaurus.ie.edu/financial-economics-and-accounting_1.pdf
+dual-degree-in-economics-international-relations,game theory 3,https://files.thesaurus.ie.edu/game-theory_3.pdf
+dual-degree-in-economics-international-relations,bir languages ni 2,https://files.thesaurus.ie.edu/bir-languages-ni-2.pdf
+dual-degree-in-economics-international-relations,international political economy,https://files.thesaurus.ie.edu/international-political-economy.pdf
+dual-degree-in-economics-international-relations,technology 2,https://files.thesaurus.ie.edu/technology-2.pdf
+dual-degree-in-economics-international-relations,SyllabusIRSkills II,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-II.pdf
+dual-degree-in-economics-international-relations,ie humanities,https://files.thesaurus.ie.edu/ie-humanities.pdf
+dual-degree-in-economics-international-relations,market auction and contract design 1,https://files.thesaurus.ie.edu/market-auction-and-contract-design_1.pdf
+dual-degree-in-economics-international-relations,economic reporting lab 1,https://files.thesaurus.ie.edu/economic-reporting-lab_1.pdf
+dual-degree-in-economics-international-relations,corporate finance rodrigo hurtado del nido,https://files.thesaurus.ie.edu/corporate-finance-rodrigo-hurtado-del-nido.pdf
+dual-degree-in-economics-international-relations,programming for economists ii 1,https://files.thesaurus.ie.edu/programming-for-economists-ii_1.pdf
+dual-degree-in-economics-international-relations,industrial organizations and strategy,https://files.thesaurus.ie.edu/industrial-organizations-and-strategy.pdf
+dual-degree-in-economics-international-relations,ie impact entrepreneurship 6,https://files.thesaurus.ie.edu/ie-impact-entrepreneurship_6.pdf
+dual-degree-in-economics-international-relations,international relations theory,https://files.thesaurus.ie.edu/international-relations-theory.pdf
+dual-degree-in-economics-international-relations,public economics and political economy 1,https://files.thesaurus.ie.edu/public-economics-and-political-economy_1.pdf
+dual-degree-in-economics-international-relations,new economy digital ecosystems and platforms 1,https://files.thesaurus.ie.edu/new-economy-digital-ecosystems-and-platforms-1.pdf
+dual-degree-in-economics-international-relations,SyllabusIRSkills IV,https://static.ie.edu./IE-School-International-Relations/SyllabusIRSkills-IV.pdf
+dual-degree-in-economics-international-relations,ie challenge 9,https://files.thesaurus.ie.edu/ie-challenge_9.pdf
+dual-degree-in-economics-international-relations,behavioral economics finance and decision making 1,https://files.thesaurus.ie.edu/behavioral-economics-finance-and-decision-making_1.pdf
+dual-degree-in-economics-international-relations,capital markets 6,https://files.thesaurus.ie.edu/capital-markets_6.pdf
+dual-degree-in-economics-international-relations,climate change and environmental politics 1,https://files.thesaurus.ie.edu/climate-change-and-environmental-politics-1.pdf
+dual-degree-in-economics-international-relations,the european union 1,https://files.thesaurus.ie.edu/the-european-union_1.pdf
+dual-degree-in-economics-international-relations,aid development and social entrepreneurship 1,https://files.thesaurus.ie.edu/aid-development-and-social-entrepreneurship_1.pdf
+dual-degree-in-economics-international-relations,25 26 bir international law professor borislava kroumova djoneva 1,https://files.thesaurus.ie.edu/25-26-bir-international-law-professor-borislava-kroumova-djoneva-1.pdf
+dual-degree-in-economics-international-relations,international trade and finance,https://files.thesaurus.ie.edu/international-trade-and-finance.pdf
+dual-degree-in-economics-international-relations,economic modeling and simulation bogdan alexandru ratiu,https://files.thesaurus.ie.edu/economic-modeling-and-simulation-bogdan-alexandru-ratiu.pdf
+dual-degree-in-economics-international-relations,peace and conflict resolution 1,https://files.thesaurus.ie.edu/peace-and-conflict-resolution_1.pdf
+dual-degree-in-economics-international-relations,comparative politics nina wiesehomeier,https://files.thesaurus.ie.edu/comparative-politics-nina-wiesehomeier.pdf
+dual-degree-in-economics-international-relations,public opinion and political communication 1,https://files.thesaurus.ie.edu/public-opinion-and-political-communication_1.pdf
+dual-degree-in-economics-international-relations,25 26 bir global gov 26 int institutions professor zoe xincheng ge 1,https://files.thesaurus.ie.edu/25-26-bir-global-gov-26-int-institutions-professor-zoe-xincheng-ge_1.pdf
+dual-degree-in-economics-international-relations,topics in foreign policy 1,https://files.thesaurus.ie.edu/topics-in-foreign-policy_1.pdf
+dual-degree-in-economics-international-relations,institutional economics 2,https://files.thesaurus.ie.edu/institutional-economics_2.pdf
+dual-degree-in-economics-international-relations,labor economics digitalization and ai 1,https://files.thesaurus.ie.edu/labor-economics-digitalization-and-ai_1.pdf
+dual-degree-in-economics-international-relations,microeconometrics 2,https://files.thesaurus.ie.edu/microeconometrics_2.pdf
+dual-degree-in-economics-international-relations,blockchain and cryptocurrency 1,https://files.thesaurus.ie.edu/blockchain-and-cryptocurrency_1.pdf
+dual-degree-in-economics-international-relations,electives biebir,https://files.thesaurus.ie.edu/electives-biebir.pdf
+dual-degree-in-economics-international-relations,machine learning and analytics for 1,https://files.thesaurus.ie.edu/machine-learning-and-analytics-for_1.pdf
+dual-degree-in-economics-international-relations,computational macroeconomics 1,https://files.thesaurus.ie.edu/computational-macroeconomics_1.pdf
+dual-degree-in-economics-international-relations,econometrics ii forecasting and identification 1,https://files.thesaurus.ie.edu/econometrics-ii-forecasting-and-identification_1.pdf
+dual-degree-in-economics-international-relations,environmental economics ghassane benmir,https://files.thesaurus.ie.edu/environmental-economics-ghassane-benmir.pdf
+dual-degree-in-economics-international-relations,economic research consumers and markets,https://files.thesaurus.ie.edu/economic-research-consumers-and-markets.pdf
+dual-degree-in-economics-international-relations,economic research regions and industries,https://files.thesaurus.ie.edu/economic-research-regions-and-industries.pdf
+LLB,IEU Academic Calendar 2025 2026,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2025-2026.pdf
+LLB,IEU Academic Calendar 2026 2027,https://docs.ie.edu/university/Calendarios/IEU-Academic-Calendar-2026-2027.pdf
+LLB,HISTORY OF INT RELATIONS UPTO 1945,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/HISTORY_OF_INT_RELATIONS_UPTO_1945.pdf
+LLB,MICROECONOMICS,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/MICROECONOMICS.pdf
+LLB,EU LEGAL HISTORY LARRAnAGA,https://docs.ie.edu/university/Grados/LLB/2025/EU_LEGAL_HISTORY_LARRAnAGA.pdf
+LLB,CONSTITUTIONAL LAW KOUROUTAKIS,https://docs.ie.edu/university/Grados/LLB/2025/CONSTITUTIONAL_LAW-KOUROUTAKIS.pdf
+LLB,bir languages,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/bir-languages.pdf
+LLB,HISTORY OF INT. REL. SINCE 1945,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/HISTORY_OF_INT._REL._SINCE_1945.pdf
+LLB,MACROECONOMICS,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/MACROECONOMICS.pdf
+LLB,Humanities,https://docs.ie.edu/university/Grados/IECHALLENGE/Humanities.pdf
+LLB,ETHICS  VALUES ELENA GARRIGUES,https://docs.ie.edu/university/Grados/LLB/2025/ETHICS__VALUES_ELENA_GARRIGUES.pdf
+LLB,LEGAL THOUGHT BAUTERS,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_THOUGHT_BAUTERS.pdf
+LLB,INTRO PRIVATE LAW CASILDA CORTES,https://docs.ie.edu/university/Grados/LLB/2025/INTRO_PRIVATE_LAW_CASILDA_CORTES.pdf
+LLB,RESEARCH METHODS IN IR,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/RESEARCH_METHODS_IN_IR.pdf
+LLB,INTERNATIONAL RELATIONS SKILLS II,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_RELATIONS_SKILLS_II.pdf
+LLB,TECHNOLOGY II,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/TECHNOLOGY_II.pdf
+LLB,TECH,https://docs.ie.edu/university/Grados/IECHALLENGE/TECH.pdf
+LLB,CONTRACTS MALO,https://docs.ie.edu/university/Grados/LLB/2025/CONTRACTS_MALO.pdf
+LLB,ADMINISTRATIVE LAW MARTIN ARRIBAS,https://docs.ie.edu/university/Grados/LLB/2025/ADMINISTRATIVE_LAW_MARTIN_ARRIBAS.pdf
+LLB,POLITICAL THEORY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/POLITICAL_THEORY.pdf
+LLB,INTERNATIONAL RELATIONS THEORY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_RELATIONS_THEORY.pdf
+LLB,PUBLIC INTER LAW DELERUE,https://docs.ie.edu/university/Grados/LLB/2025/PUBLIC_INTER_LAW_DELERUE.pdf
+LLB,ADMINS  ECONOMIC REGULATIONS LAZAR,https://docs.ie.edu/university/Grados/LLB/2025/ADMINS__ECONOMIC_REGULATIONS_LAZAR.pdf
+LLB,UNPLUGGED III,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/UNPLUGGED_III.pdf
+LLB,IE Impact Entrepreneurship,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Impact_Entrepreneurship.pdf
+LLB,INTERNATIONAL POLITICAL ECONOMY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_POLITICAL_ECONOMY.pdf
+LLB,EUROPEAN UNION LAW LESKINEN,https://docs.ie.edu/university/Grados/LLB/2025/EUROPEAN_UNION_LAW_LESKINEN.pdf
+LLB,COMMERCIAL LAW I FERNANDEZ BENITO,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_I_FERNANDEZ_BENITO.pdf
+LLB,CRIMINAL LAW I PALMIOTTO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_I_PALMIOTTO.pdf
+LLB,IE Challenge,https://docs.ie.edu/university/Grados/IECHALLENGE/IE_Challenge.pdf
+LLB,LEGAL SKILLS TRANSACTIONS DAROCA,https://docs.ie.edu/university/Grados/LLB/2025/LEGAL_SKILLS_TRANSACTIONS_DAROCA.pdf
+LLB,INTERNATIONAL TRADE AND FINANCE,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/INTERNATIONAL_TRADE_AND_FINANCE.pdf
+LLB,HUMAN RIGHTS VERDUGO,https://docs.ie.edu/university/Grados/LLB/2025/HUMAN_RIGHTS_VERDUGO.pdf
+LLB,TORTS BERMEJO,https://docs.ie.edu/university/Grados/LLB/2025/TORTS_BERMEJO.pdf
+LLB,TOPICS IN FOREIGN POLICY,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/TOPICS_IN_FOREIGN_POLICY.pdf
+LLB,COMMERCIAL LAW II REIG,https://docs.ie.edu/university/Grados/LLB/2025/COMMERCIAL_LAW_II_REIG.pdf
+LLB,CRIMINAL LAW II CAPELLO,https://docs.ie.edu/university/Grados/LLB/2025/CRIMINAL_LAW_II_CAPELLO.pdf
+LLB,PROPERTY ZAMORA,https://docs.ie.edu/university/Grados/LLB/2025/PROPERTY_ZAMORA.pdf
+LLB,UNPLUGGED V MORALES,https://docs.ie.edu/university/Grados/LLB/2025/UNPLUGGED_V_MORALES.pdf
+LLB,AID DEVELOPMENT AND SOCIAL ENTREPRENEURSHIP,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/AID_DEVELOPMENT_AND_SOCIAL_ENTREPRENEURSHIP.pdf
+LLB,CLIMATE CHANGE AND ENVIRONMENTAL POLITICS,https://docs.ie.edu.s3.amazonaws.com/university/Grados/DOBLES/LLBBIR/CLIMATE_CHANGE_AND_ENVIRONMENTAL_POLITICS.pdf
+LLB,PROJECT MANAGEMENT,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/PROJECT_MANAGEMENT.pdf
+LLB,GLOBAL GOVERNANCE AND INTERNATIONAL INSTITUTIONS,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/GLOBAL_GOVERNANCE_AND_INTERNATIONAL_INSTITUTIONS.pdf
+LLB,TAXATION I LEIS,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_I_LEIS.pdf
+LLB,LITIGATION I DE BENITO,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_I_DE_BENITO.pdf
+LLB,FAMILY STATE  TRUST CORTES,https://docs.ie.edu/university/Grados/LLB/2025/FAMILY_STATE__TRUST_CORTES.pdf
+LLB,LABOUR LAW I OTERO,https://docs.ie.edu/university/Grados/LLB/2025/LABOUR_LAW_I_OTERO.pdf
+LLB,OPTATIVAS LLBBIR,https://docs.ie.edu.s3.amazonaws.com/university/Grados/DOBLES/LLBBIR/OPTATIVAS_LLBBIR.pdf
+LLB,PEACE AND CONFLICT RESOLUTION,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/PEACE_AND_CONFLICT_RESOLUTION.pdf
+LLB,PUBLIC OPINION %26 POLITICAL COMMUNICATION,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/PUBLIC_OPINION_%26_POLITICAL_COMMUNICATION.pdf
+LLB,TAXATION II ALLEVATO,https://docs.ie.edu/university/Grados/LLB/2025/TAXATION_II-ALLEVATO.pdf
+LLB,LITIGATION II PINEROS,https://docs.ie.edu/university/Grados/LLB/2025/LITIGATION_II_PINEROS.pdf
+LLB,CONFLICTS  BUSINESS LAW SANCHEZ,https://docs.ie.edu/university/Grados/LLB/2025/CONFLICTS__BUSINESS_LAW_SANCHEZ.pdf
+LLB,OPTATIVAS LLBBIR,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/OPTATIVAS_LLBBIR.pdf
+LLB,Law Final Project,https://docs.ie.edu/university/Grados/LLB/2025/Law_Final_Project.pdf
+LLB,BIR Capstone,https://docs.ie.edu/university/Grados/DOBLES/LLBBIR/BIR_Capstone.pdf
+LLB,llb bir%20infografia,https://static.ie.edu/marketing/web/IEU/llb_bir%20infografia.pdf
