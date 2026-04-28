@@ -12,7 +12,6 @@ def build_filename(row):
         pdf_name = parts[-1].replace(".pdf", "")
         return f"{degree}__{pdf_name}.pdf"
     except (ValueError, IndexError):
-        # fallback to just the pdf filename
         return parts[-1]
 
 
@@ -34,3 +33,26 @@ def download_pdfs(csv_path: str, output_folder: str):
         if os.path.exists(filepath):
             print(f"Skipping (already exists): {filename}")
             continue
+
+        try:
+            print(f"Downloading: {filename}")
+            response = requests.get(url, timeout=15)
+            response.raise_for_status()
+
+            with open(filepath, "wb") as f:
+                f.write(response.content)
+
+            success += 1
+
+        except Exception as e:
+            print(f"Failed: {url} → {e}")
+            failed += 1
+
+    print(f"\n✅ Done! Downloaded {success} new PDFs, {failed} failed.")
+
+
+if __name__ == "__main__":
+    csv_path = "data/processed/all_syllabus_links.csv"
+    output_folder = "data/raw"
+
+    download_pdfs(csv_path, output_folder)
