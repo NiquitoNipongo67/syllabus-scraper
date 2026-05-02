@@ -20,16 +20,20 @@ DEGREE_NAME_MAP = {
     "bachelor-laws": "LLB",
     "bachelor-humanities": "BHUM",
     "bachelor-architectural": "BAS",
+    "bachelor-in-behavior": "BBSS",
     "bachelor-behavior": "BBSS",
     "bachelor-economics": "BEC",
+    "bachelor-in-economics": "BEC",
     "bachelor-political": "BPS",
     "bachelor-pple": "PPLE",
     "bachelor-communication": "BCDM",
+    "bachelor-in-communication": "BCDM",
     "bachelor-design": "BDES",
+    "bachelor-in-design": "BDES",
     "bachelor-environmental": "BESS",
     "bachelor-fashion": "BFD",
+    "dual-degree": "DOBLES",
 }
-
 
 def make_driver():
     return webdriver.Chrome(service=Service(ChromeDriverManager().install()))
@@ -100,8 +104,21 @@ def get_syllabus_links_for_degree(driver, degree_name, degree_url):
         if any(domain in href for domain in DOCS_DOMAINS) and href.endswith(".pdf") and href not in seen:
             seen.add(href)
             course_name = href.split("/")[-1].replace(".pdf", "").replace("_", " ").replace("-", " ").strip()
+
+            # Extract degree from URL if possible, otherwise use page degree
+            url_parts = href.split("/")
+            try:
+                grados_idx = url_parts.index("Grados")
+                url_degree = url_parts[grados_idx + 1]
+                if url_degree == "DOBLES":
+                    assigned_degree = degree_name
+                else:
+                    assigned_degree = url_degree
+            except (ValueError, IndexError):
+                assigned_degree = degree_name
+
             syllabus_links.append({
-                "degree": degree_name,
+                "degree": assigned_degree,
                 "course_name": course_name,
                 "syllabus_url": href,
             })
