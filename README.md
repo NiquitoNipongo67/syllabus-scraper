@@ -58,6 +58,7 @@ pytest tests/
 ```
 
 ## Project Structure
+
 syllabus-scraper/
 ├── src/syllabus_scraper/
 │   ├── base_scraper.py       # Abstract base class for all university scrapers
@@ -67,6 +68,7 @@ syllabus-scraper/
 │   ├── uc3m_scraper.py       # UC3M web scraper
 │   ├── upm_scraper.py        # UPM PDF scraper
 │   └── uva_scraper.py        # UvA scraper (in progress)
+├── scripts/                  # One-off utility and debug scripts
 ├── tests/                    # 37 unit tests
 ├── data/
 │   ├── raw/                  # Downloaded PDFs
