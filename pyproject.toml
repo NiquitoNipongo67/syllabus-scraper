@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "syllabus-scraper"
+version = "0.1.0"
+description = "Scrapes university syllabuses to analyze grading structures across degrees"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas",
+    "pdfplumber",
+    "selenium",
+    "webdriver-manager",
+    "requests",
+    "beautifulsoup4",
+]
+
+[project.scripts]
+scrape-ie = "syllabus_scraper.ie_scraper:main"
+parse-ie = "syllabus_scraper.ie_parser:main"
