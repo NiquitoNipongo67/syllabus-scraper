@@ -1,4 +1,4 @@
-from base_parser import BaseParser
+from syllabus_scraper.base_parser import BaseParser
 import re
 
 

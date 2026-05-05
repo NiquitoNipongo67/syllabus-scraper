@@ -127,3 +127,40 @@ def test_extract_bracket_format():
 def test_no_criteria_section_returns_zeros():
     result = extract_grading_items_from_text("Some random text with no criteria section.")
     assert compute_total_weight(result) == 0
+
+
+def test_section_ends_at_resit():
+    text = """
+    EVALUATION CRITERIA
+    Final Exam 60 %
+    RE-SIT / RE-TAKE POLICY
+    Midterm 40 %
+    """
+    result = extract_grading_items_from_text(text)
+    assert result["final_exam"] == 60
+    assert result["midterm_tests"] == 0
+
+
+def test_section_ends_at_bibliography():
+    text = """
+    EVALUATION CRITERIA
+    Final Exam 70 %
+    BIBLIOGRAPHY
+    Midterm 30 %
+    """
+    result = extract_grading_items_from_text(text)
+    assert result["final_exam"] == 70
+    assert result["midterm_tests"] == 0
+
+
+def test_normalize_label_strips_and_lowercases():
+    assert normalize_label("  Final  Exam  ") == "final exam"
+    assert normalize_label("PARTICIPATION") == "participation"
+
+
+def test_unknown_label_returns_other():
+    assert map_label_to_category("Some unknown assessment") == "other"
+
+
+def test_final_test_variant():
+    assert map_label_to_category("Final Test") == "final_exam"

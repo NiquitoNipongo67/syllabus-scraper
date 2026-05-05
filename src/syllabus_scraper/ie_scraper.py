@@ -1,4 +1,4 @@
-from base_scraper import BaseScraper
+from syllabus_scraper.base_scraper import BaseScraper
 
 class IEScraper(BaseScraper):
 
